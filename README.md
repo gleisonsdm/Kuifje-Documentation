@@ -9,6 +9,6 @@ apply Quantitative Information Flow (henceforth called QIF) to model real world 
 
 ### Assigning probabilities
 
-- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Uniform%20Assingment.md)
-- [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Direct%20Assignment.md)
-- [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Internal%20Choice.md)
+- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Uniform%20Assingment.md)
+- [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Direct%20Assignment.md)
+- [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
