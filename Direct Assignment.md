@@ -14,4 +14,4 @@ It is equivalent to:
   x := [1, 2, 2, 3];
 ```
 
-[Main Documentation](https://github.com/gleisonsdm/Kuifje-Documentation)
+[Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
