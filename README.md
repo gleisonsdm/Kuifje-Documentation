@@ -28,7 +28,7 @@ To do - Add pages to links below:
 
 ### Conditionals
 - [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20IF.md)
-- [Statement IF - External Choice]()
+- [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20IF.md)
 - [Expression Switch - Internal Choice]()
 - [Statement Switch - External Choice]()
 
