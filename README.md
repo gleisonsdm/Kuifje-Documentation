@@ -22,7 +22,7 @@ To do - Add pages to links below:
 - [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Plus.md)
 - [Minus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Minus.md)
 - [Times](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Times.md)
-- [Div]()
+- [Div](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Div.md)
 - [Remainder]()
 - [Pow]()
 
