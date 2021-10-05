@@ -29,7 +29,7 @@ To do - Add pages to links below:
 ### Conditionals
 - [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20IF.md)
 - [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20IF.md)
-- [Expression Switch - Internal Choice]()
+- [Expression Switch - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20Switch.md)
 - [Statement Switch - External Choice]()
 
 ### Repetition Structures
