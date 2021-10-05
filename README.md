@@ -12,3 +12,29 @@ apply Quantitative Information Flow (henceforth called QIF) to model real world 
 - [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Uniform%20Assingment.md)
 - [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Direct%20Assignment.md)
 - [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
+
+### Assigning Values
+- [Set]()
+- [Uniform Set]()
+
+### Basic Operators
+- [Plus]()
+- [Minus]()
+- [Times]()
+- [Div]()
+- [Remainder]()
+- [Pow]()
+
+### Conditionals
+- [Expression IF - Internal Choice]()
+- [Statement IF - External Choice]()
+- [Expression Switch - Internal Choice]()
+- [Statement Switch - External Choice]()
+
+### Repetition Structures
+- [While]()
+
+### Functions
+- [Function Declaration]()
+- [Function Call]()
+- [Function - Complete Example]()
