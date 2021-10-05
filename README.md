@@ -30,7 +30,7 @@ To do - Add pages to links below:
 - [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20IF.md)
 - [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20IF.md)
 - [Expression Switch - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20Switch.md)
-- [Statement Switch - External Choice]()
+- [Statement Switch - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20Switch.md)
 
 ### Repetition Structures
 - [While]()
