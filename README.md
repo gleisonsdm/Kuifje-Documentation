@@ -17,7 +17,6 @@ apply Quantitative Information Flow (henceforth called QIF) to model real world 
 - [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
 - [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Uniform%20Set.md)
 
-To do - Add pages to links below:
 ### Basic Operators
 - [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Plus.md)
 - [Minus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Minus.md)
@@ -33,7 +32,7 @@ To do - Add pages to links below:
 - [Statement Switch - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20Switch.md)
 
 ### Repetition Structures
-- [While]()
+- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/While.md)
 
 ### Functions
 - [Function Declaration]()
