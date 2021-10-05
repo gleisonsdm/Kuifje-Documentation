@@ -24,7 +24,7 @@ To do - Add pages to links below:
 - [Times](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Times.md)
 - [Div](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Div.md)
 - [Remainder](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Remainder.md)
-- [Pow]()
+- [Pow](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Pow.md)
 
 ### Conditionals
 - [Expression IF - Internal Choice]()
