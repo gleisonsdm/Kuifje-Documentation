@@ -35,6 +35,6 @@ apply Quantitative Information Flow (henceforth called QIF) to model real world 
 - [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/While.md)
 
 ### Functions
-- [Function Declaration]()
+- [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Declaration.md)
 - [Function Call]()
 - [Function - Complete Example]()
