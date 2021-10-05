@@ -1,6 +1,6 @@
 # Uniform Set
 
-Assign an uniform distribution to the elements of a Set/
+Assign an uniform distribution to the elements of a Set.
 
 Example:
 ```sh
