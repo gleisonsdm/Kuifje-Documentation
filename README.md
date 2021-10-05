@@ -19,7 +19,7 @@ apply Quantitative Information Flow (henceforth called QIF) to model real world 
 
 To do - Add pages to links below:
 ### Basic Operators
-- [Plus]()
+- [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Plus.md)
 - [Minus]()
 - [Times]()
 - [Div]()
