@@ -22,4 +22,6 @@ leak x;
 
 [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Declaration.md)
 
+[Complete Example of Function](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Complete.md)
+
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
