@@ -14,7 +14,7 @@ apply Quantitative Information Flow (henceforth called QIF) to model real world 
 - [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
 
 ### Assigning Values
-- [Set]()
+- [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
 - [Uniform Set]()
 
 ### Basic Operators
