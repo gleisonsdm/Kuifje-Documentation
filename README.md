@@ -15,8 +15,9 @@ apply Quantitative Information Flow (henceforth called QIF) to model real world 
 
 ### Assigning Values
 - [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
-- [Uniform Set]()
+- [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Uniform%20Set.md)
 
+To do - Add pages to links below:
 ### Basic Operators
 - [Plus]()
 - [Minus]()
