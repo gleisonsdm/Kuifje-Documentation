@@ -1,7 +1,7 @@
 # Expression Switch
 
 Switchs can be constructed to be Expressions or Statements. By expression, we mean a decision made by a user where an adversary cannot
-observe what attribution (or variable, if the case) generated an specific value. Switchs are used for multiple possible values
+observe what attribution (or variable, if the case) generated an specific value. Switchs are used for multiple possible values.
 
 Example:
 ```sh
