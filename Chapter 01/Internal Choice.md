@@ -5,7 +5,7 @@ Kuifje allow as to explicitly assign such choices to a variable. The syntax foll
 
 Example:
 ```sh
-  x := (1 [1/4] (2 [2/3] 3);
+  x := (1 [1/4] (2 [2/3] 3));
 ```
 
 It is equivalent to:

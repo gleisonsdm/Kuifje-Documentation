@@ -1,0 +1,3 @@
+guess := uniform [0..10];
+guess := guess * 2;
+leak guess;

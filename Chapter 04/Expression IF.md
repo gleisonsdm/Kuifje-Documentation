@@ -6,7 +6,7 @@ observe what attribution (or variable, if the case) generated an specific value.
 Example:
 ```sh
 x := 0 [1/2] 1;
-x := if (x > 0) then (1) else (2);
+y := if (x > 0) then (1) else (2) fi;
 ```
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
