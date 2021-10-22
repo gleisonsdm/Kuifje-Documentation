@@ -1,9 +1,9 @@
-# Kuifje-Documentation
+# Python-Kuifje Documentation
 
-This repository contains the basic documentation for Kuifje Programming Language. It is also a guide,
-with examples, allowing new programers to learn how to write programs.
-Kuifje is a programming language with specific domain. It provides facilities and a friendly toolkit to
-apply Quantitative Information Flow (henceforth called QIF) to model real world scenarios.
+This book contains the references of the subset of Python supported by Kuifje.
+It contains propousals, as also implemented features. Its compiler is available
+at:
+[Kuifje Compiler](https://github.com/gleisonsdm/kuifje-compiler)
 
 ## Summary
 
