@@ -33,7 +33,7 @@ The compiler is available at:
 - [Statement Switch - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Statement%20Switch.md) Kuifje
 
 ### Repetition Structures
-- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2005/While.md) Kuifje
+- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2005/While.md) Kuifje / Python
 
 ### Functions
 - [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2006/Function%20Declaration.md) Kuifje
