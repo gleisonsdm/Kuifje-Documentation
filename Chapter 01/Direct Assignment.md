@@ -1,23 +1,22 @@
 # Direct Assignment
 
-Describes an assignment created by the user, associating
-the probability to a value directly. The operator to
-this operation is the "@".
+Describes an assignment created by the user, associating the probability to a value directly. 
+The syntax is the same of Python dictionaries, considering just the subsets below.
 
 Example:
 ```sh
-  x := [1@(1/2), 2@(1/4), 3@(1/2)];
+  x := {'A': 0.25, 'B': 0.5, 'C': 0.25};
 ```
 
 It is equivalent to:
 ```sh
-  x := [1, 2, 2, 3];
+  x := ['A', 'B', 'B', 'C'];
 ```
 Or:
 | Value | Probability |
 | --- | ----------- |
-| 1 | 1/4 |
-| 2 | 1/2 |
-| 3 | 1/4 |
+| A | 1/4 |
+| B | 1/2 |
+| C | 1/4 |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
