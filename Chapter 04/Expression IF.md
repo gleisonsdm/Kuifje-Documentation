@@ -5,8 +5,8 @@ observe what attribution (or variable, if the case) generated an specific value.
 
 Example:
 ```sh
-x := 0 [1/2] 1;
-y := if (x > 0) then (1) else (2) fi;
+x := [0, 1];
+min = 1 if x > 0 else 2
 ```
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
