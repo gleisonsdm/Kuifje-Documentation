@@ -5,12 +5,13 @@ knows where the value has came from.
 
 Example:
 ```sh
-y := (1 [1/3] 2);
-if y > 1 then 
-        x := 2 + 1; 
-else 
-        x := 1; 
-fi;
+y = [1, 1, 2, 3]
+if y > 2:
+  x = 2 + 1
+elif y == 2:
+  x = 4
+else:
+  x = 1
 ```
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
