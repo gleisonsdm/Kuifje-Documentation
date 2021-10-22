@@ -5,7 +5,7 @@ observe what attribution (or variable, if the case) generated an specific value.
 
 Example:
 ```sh
-x := [0, 1];
+x := [0, 1]
 min = 1 if x > 0 else 2
 ```
 
