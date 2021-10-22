@@ -28,7 +28,7 @@ The compiler is available at:
 
 ### Conditionals
 - [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Expression%20IF.md) Kuifje / Python
-- [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Statement%20IF.md) Kuifje
+- [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Statement%20IF.md) Kuifje / Python
 - [Expression Switch - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Expression%20Switch.md) Kuifje
 - [Statement Switch - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Statement%20Switch.md) Kuifje
 
