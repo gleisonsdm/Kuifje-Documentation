@@ -10,9 +10,9 @@ The compiler is available at:
 
 ### Assigning probabilities
 
-- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Uniform%20Assingment.md) Kuifje
-- [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Direct%20Assignment.md) Kuifje
-- [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Internal%20Choice.md) Kuifje
+- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Uniform%20Assingment.md) Kuifje / Python
+- [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Direct%20Assignment.md) Kuifje / Python
+- [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Internal%20Choice.md) Kuifje only
 
 ### Assigning Values
 - [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2002/Set.md) Kuifje
