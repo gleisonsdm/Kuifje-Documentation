@@ -5,12 +5,12 @@ The syntax is the same of Python dictionaries, considering just the subsets belo
 
 Example:
 ```sh
-  x := {'A': 0.25, 'B': 0.5, 'C': 0.25};
+  x := {'A': 0.25, 'B': 0.5, 'C': 0.25}
 ```
 
 It is equivalent to:
 ```sh
-  x := ['A', 'B', 'B', 'C'];
+  x := ['A', 'B', 'B', 'C']
 ```
 Or:
 | Value | Probability |
