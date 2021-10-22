@@ -4,14 +4,14 @@ Describes an assignment where each value has the same probability
 
 Example:
 ```sh
-  x := [1, 2, 2, 3];
+  x := ['A', 'B', 'B', 'C'];
 ```
 
 It is equivalent to:
 | Value | Probability |
 | --- | ----------- |
-| 1 | 1/4 |
-| 2 | 1/2 |
-| 3 | 1/4 |
+| A | 1/4 |
+| B | 1/2 |
+| C | 1/4 |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
