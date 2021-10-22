@@ -4,7 +4,7 @@ Describes an assignment where each value has the same probability
 
 Example:
 ```sh
-  x := ['A', 'B', 'B', 'C'];
+  x := ['A', 'B', 'B', 'C']
 ```
 
 It is equivalent to:
