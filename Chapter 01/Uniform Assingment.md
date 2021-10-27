@@ -4,10 +4,14 @@ Describes an assignment where each value has the same probability
 
 Example:
 ```sh
-  x := [('A',1), ('B',2), ('B',2), ('C',3)]
+  x = [('A',1), ('B',2), ('B',2), ('C',3)];
 ```
 
 It is equivalent to:
+```sh
+  x = ['A', 'B', 'B', 'C'];
+```
+
 | Value | Probability |
 | --- | ----------- |
 | 1 | 1/4 |
