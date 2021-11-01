@@ -9,7 +9,7 @@ The compiler is available at:
 ## Summary
 
 ### Assigning probabilities
-
+- [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Sampling.md)
 - [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Uniform%20Assingment.md) Kuifje / Python
 - [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Direct%20Assignment.md) Kuifje / Python
 - [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Internal%20Choice.md) Kuifje Only
