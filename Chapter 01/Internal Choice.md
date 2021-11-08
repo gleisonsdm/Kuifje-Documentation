@@ -5,12 +5,12 @@ Kuifje allow as to explicitly assign such choices to a variable. The syntax foll
 
 Example:
 ```sh
-  x := (1 [1/4] (2 [2/3] 3));
+  x = (1 [1/4] (2 [2/3] 3));
 ```
 
 It is equivalent to:
 ```sh
-  x := [1, 2, 2, 3];
+  x = uniform [1, 2, 2, 3];
 ```
 Or:
 | Value | Probability |
@@ -20,3 +20,4 @@ Or:
 | 3 | 1/4 |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
+
