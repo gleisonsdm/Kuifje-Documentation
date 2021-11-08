@@ -2,15 +2,17 @@
 
 A full functional program using functions in Kuifje follows:
 
-```sh
-prob := (1 [1/3] 2);
+```python
+prob = (1 [1/3] 2);
+prob01 <- prob;
 
-function f1 a returns b fun
-  b := a;
-nuf;
+def f1(p):
+  z = p + 2;
+  y = z + 1;
+  return y;
 
-call f1 prob returns x;
-leak x;
+b = f1(prob01);
+leak(b);
 ```
 
 [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Declaration.md)
