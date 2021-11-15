@@ -4,7 +4,7 @@ Ifs can be constructed as Expressions or Statements. Statement Ifs represents a 
 knows where the value has came from.
 
 Example:
-```sh
+```python
 p = (1 [1/2] (2 [1/3] 3));
 a <- p;
 
