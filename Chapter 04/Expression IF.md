@@ -4,9 +4,14 @@ Ifs can be constructed as Expressions or Statements. By expression, we mean a de
 observe what attribution (or variable, if the case) generated an specific value.
 
 Example:
-```sh
-x := [0, 1]
-min = 1 if x > 0 else 2
+```python
+x = (0 [1/2] (1 [1/2] 2));
+y = if x > 1: 
+    4
+  elif x > 0:
+    5
+  else:
+    6;
 ```
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
