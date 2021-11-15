@@ -16,8 +16,8 @@ The compiler is available at:
 - [x] [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Internal%20Choice.md) Kuifje
 
 ### Assigning Values
-- [ ] [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2002/Set.md) Kuifje
-- [ ] [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2002/Uniform%20Set.md) Kuifje
+- [x] [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2002/Set.md) Kuifje
+- [x] [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2002/Uniform%20Set.md) Kuifje
 
 ### Basic Operators
 - [ ] [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Plus.md) Kuifje / Python
@@ -28,13 +28,11 @@ The compiler is available at:
 - [ ] [Pow](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Pow.md) Kuifje
 
 ### Conditionals
-- [ ] [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Expression%20IF.md) Kuifje / Python
+- [x] [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Expression%20IF.md) Kuifje / Python
 - [x] [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Statement%20IF.md) Kuifje / Python
-- [ ] [Expression Switch - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Expression%20Switch.md) Kuifje
-- [ ] [Statement Switch - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Statement%20Switch.md) Kuifje
 
 ### Repetition Structures
-- [ ] [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2005/While.md) Kuifje / Python
+- [x] [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2005/While.md) Kuifje / Python
 
 ### Functions
 - [x] [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2006/Function%20Declaration.md) Kuifje
