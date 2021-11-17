@@ -1,40 +1,40 @@
-# Kuifje-Documentation
+# Python-Kuifje Documentation
 
-This repository contains the basic documentation for Kuifje Programming Language. It is also a guide,
-with examples, allowing new programers to learn how to write programs.
-Kuifje is a programming language with specific domain. It provides facilities and a friendly toolkit to
-apply Quantitative Information Flow (henceforth called QIF) to model real world scenarios.
+This book contains the references of the subset of Python supported by Kuifje.
+It contains propousals, as also implemented features.
+
+The compiler is available at:
+[Kuifje Compiler](https://github.com/gleisonsdm/kuifje-compiler)
 
 ## Summary
 
 ### Assigning probabilities
-
-- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Uniform%20Assingment.md)
-- [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Direct%20Assignment.md)
-- [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
+- [x] [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Sampling.md)
+- [x] [Geometric](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Geometric.md)
+- [x] [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Uniform%20Assingment.md) Kuifje
+- [x] [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Direct%20Assignment.md) Kuifje
+- [x] [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2001/Internal%20Choice.md) Kuifje
 
 ### Assigning Values
-- [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
-- [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Uniform%20Set.md)
+- [x] [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2002/Set.md) Kuifje
+- [x] [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2002/Uniform%20Set.md) Kuifje
 
 ### Basic Operators
-- [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Plus.md)
-- [Minus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Minus.md)
-- [Times](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Times.md)
-- [Div](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Div.md)
-- [Remainder](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Remainder.md)
-- [Pow](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Pow.md)
+- [ ] [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Plus.md) Kuifje / Python
+- [ ] [Minus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Minus.md) Kuifje / Python
+- [ ] [Times](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Times.md) Kuifje / Python
+- [ ] [Div](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Div.md) Kuifje
+- [ ] [Remainder](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Remainder.md) Kuifje
+- [ ] [Pow](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2003/Pow.md) Kuifje
 
 ### Conditionals
-- [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20IF.md)
-- [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20IF.md)
-- [Expression Switch - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20Switch.md)
-- [Statement Switch - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20Switch.md)
+- [x] [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Expression%20IF.md) Kuifje / Python
+- [x] [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2004/Statement%20IF.md) Kuifje / Python
 
 ### Repetition Structures
-- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/While.md)
+- [x] [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2005/While.md) Kuifje / Python
 
 ### Functions
-- [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Declaration.md)
-- [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Call.md)
-- [Function - Complete Example](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Complete.md)
+- [x] [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2006/Function%20Declaration.md) Kuifje
+- [x] [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2006/Function%20Call.md) Kuifje
+- [x] [Function - Complete Example](https://github.com/gleisonsdm/Kuifje-Documentation/blob/pythonK/Chapter%2006/Function%20Complete.md) Kuifje

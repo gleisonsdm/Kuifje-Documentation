@@ -2,24 +2,21 @@
 
 Functions are small packages of code, that can be easily reused due to modification in their parameters.
 Kuifje allow functions, which are defined as follows:
-```sh
-function fName inP1, inP2 returns out1, out2 fun
+```python
+def f1(p):
   ...
-nuf;
 ```
-Where:
-- fName : Is the name of the function.
-- inP1, inP2 are the variables assigned as inputs.
-  These variables are lived inside the function, and are initilized when the function is called.
-- out1, out2 are output variables.
-  These variables are lived inside the function, their values should be assigned inside the function and will be
-  associated with the respective variables when the function is called.
+
+The functions are compatible with Python, but a limited subset of functions. Kuifje consider one return
+for each function. As the language is probabilistic, multiple return points can be simulated by using a
+distribution, and any possible value can be the observable return value.
 
 Example:
-```sh
-function f1 a returns b fun
-  b := a;
-nuf;
+```python
+def f1(p):
+  z = p + 2;
+  y = z + 1;
+  return y;
 ```
 
 [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Call.md)

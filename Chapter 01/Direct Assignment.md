@@ -6,12 +6,12 @@ this operation is the "@".
 
 Example:
 ```sh
-  x := [1@(1/2), 2@(1/4), 3@(1/2)];
+  x = [1@(1/2), 2@(1/4), 3@(1/2)];
 ```
 
 It is equivalent to:
 ```sh
-  x := [1, 2, 2, 3];
+  x = uniform [1, 2, 2, 3];
 ```
 Or:
 | Value | Probability |

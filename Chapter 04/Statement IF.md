@@ -4,13 +4,16 @@ Ifs can be constructed as Expressions or Statements. Statement Ifs represents a 
 knows where the value has came from.
 
 Example:
-```sh
-y := (1 [1/3] 2);
-if y > 1 then 
-        x := 2 + 1; 
+```python
+p = (1 [1/2] (2 [1/3] 3));
+a <- p;
+
+if a == 1:
+  x = 2 + 1; 
+elif a == 2:
+  x = 10;
 else 
-        x := 1; 
-fi;
+  x = 1;
 ```
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
