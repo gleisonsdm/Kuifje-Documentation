@@ -7,7 +7,7 @@ To assign a value in Kuifje, the symbol "=" is used.
 ```
 
 The output of this command for variable "x" is:
-| Probability of the disitrbution happen | Probability distribution | Value | 
+| Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 1 |
 | | 0.33 | 2 |
