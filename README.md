@@ -1,9 +1,14 @@
 # Python-Kuifje Documentation
 
-This book contains the references of the subset of Python supported by Kuifje.
-It contains propousals, as also implemented features.
+This book contains the references of the subset Kuifje compatible with Python.
+Kuifje is currently not full supported, due to its specificities.
+The subset of Python allowed make it mandatory to add the semicolon ";" in the end of each command.
+However, the structures such as conditionals, while, and functions are designed to be compatible.
 
-The compiler is available at:
+Functions are not full suported, i.e. they should have just one single unique return point in the end.
+Our research pretends to increament this subset, by defining the expected behavior for functions with multiple return points.
+
+The compiler that implements a prototype of this project is available at:
 [Kuifje Compiler](https://github.com/gleisonsdm/kuifje-compiler)
 
 ## Summary
