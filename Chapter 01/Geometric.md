@@ -9,12 +9,12 @@ Example:
 ```
 
 It represens a distribution such as:
-| Value | Probability |
-| --- | ----------- |
-| 0 | 2/3 |
-| 1 | 1/6 |
-| 2 | 1/12 |
-| 3 | 1/24 |
-| 4 | 1/24 |
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 0.67 | 0.0 |
+| | 0.17 | 1.0 |
+| | 0.08 | 2.0 |
+| | 0.04 | 3.0 |
+| | 0.04 | 4.0 |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
