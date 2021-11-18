@@ -1,3 +1,2 @@
-y := 2;
-x := y * 2;
-leak x;
+guess = uniform [0..10];
+guess = guess * 2;
