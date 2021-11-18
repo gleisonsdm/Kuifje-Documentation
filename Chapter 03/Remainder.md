@@ -16,15 +16,15 @@ Output or variable x:
 ## Example Distribution:
 Program:
 ```python
-x = uniform [1, 2, 3];
+x = uniform [1, 2, 3, 4];
 x = x % 3;
 ```
 
 Output or variable x:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 0.33 | 0.0 |
-| | 0.33 | 1.0 |
-| | 0.33 | 2.0 |
+| 1.00 | 0.25 | 0.0 |
+| | 0.50 | 1.0 |
+| | 0.25 | 2.0 |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
