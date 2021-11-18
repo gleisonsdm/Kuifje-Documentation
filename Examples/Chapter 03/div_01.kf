@@ -1,2 +1,1 @@
-x := 6 div 3;
-leak x;
+x = 7 div 3;

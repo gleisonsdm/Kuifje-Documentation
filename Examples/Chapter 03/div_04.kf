@@ -1,2 +1,2 @@
 guess = uniform [3,5,7];
-guess = guess div 2;
+guess = guess / 2;
