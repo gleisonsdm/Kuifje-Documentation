@@ -1,4 +1,4 @@
-# Div operator
+# Division operators
 
 Kuifje allow users to divide two values, truncating them or not.
 Truncate the values is usefull to get the integer part of a division, whereas the division itself can produce floating point values.
