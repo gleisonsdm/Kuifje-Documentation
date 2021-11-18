@@ -28,6 +28,7 @@ The compiler that implements a prototype of this project is available at:
 ### Basic Operators
 - [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Plus.md)
 - [Minus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Minus.md)
+- [Intersection](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Intersection.md)
 - [Times](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Times.md)
 - [Div](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Div.md)
 - [Remainder](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Remainder.md)
