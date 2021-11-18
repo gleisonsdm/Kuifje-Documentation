@@ -22,7 +22,7 @@ guess = uniform [0..10];
 guess = guess * 2;
 ```
 
-Output of variable x:
+Output of variable guess:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.09 | 0.0 |
