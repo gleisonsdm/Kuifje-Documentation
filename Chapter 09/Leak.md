@@ -23,7 +23,7 @@ x = uniform [1, 2];
 leak(x);
 ```
 
-Output or variable z:
+Output or variable x:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 0.50 | 1.00 | 1.0 | 
