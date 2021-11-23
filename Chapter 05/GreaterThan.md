@@ -1,4 +1,4 @@
-# GreaterThan
+# Greater Than
 
 Compares two integers, or distributions, and report the result.
 
