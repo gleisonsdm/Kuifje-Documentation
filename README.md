@@ -45,7 +45,7 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 
 #### Aritimetic comparison
 - [Greater Than](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/GreaterThan.md)
-- [Greater or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Greater.md)
+- [Greater or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/GreaterEqual.md)
 - [Lower Than](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/LowerThan.md)
 - [Lower or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/LowerEqual.md)
 - [Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Equal.md)
