@@ -18,8 +18,8 @@ leak(b);
 
 The link "omplete Example of Function" shows a full implemented, compilable example of a function a how to call it.
 
-[Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Declaration.md)
+[Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Declaration.md)
 
-[Complete Example of Function](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Complete.md)
+[Complete Example of Function](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Complete.md)
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
