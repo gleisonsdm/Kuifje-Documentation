@@ -13,6 +13,9 @@ The compiler that implements a prototype of this project is available at:
 
 ## Summary
 
+Each of the subtitles conatins a group of operations which Kuifje supports.
+They can be used to manupulate Kuifje variables, providing facilities to model and operate with distributions and sets.
+
 ### Assigning probabilities
 - [Attribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Attribution.md)
 - [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Sampling.md)
@@ -34,17 +37,20 @@ The compiler that implements a prototype of this project is available at:
 - [Pow](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Pow.md)
 
 ### Set Operators
-- [Intersection](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Intersection.md)
+- [Union](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Union.md)
+- [Difference](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Difference.md)
+- [Intersection](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Intersection.md)
 
+### Comparison Boolean Operators
 
 ### Conditionals
-- [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Expression%20IF.md)
-- [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Statement%20IF.md)
+- [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Expression%20IF.md)
+- [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Statement%20IF.md)
 
 ### Repetition Structures
-- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/While.md) 
+- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2007/While.md) 
 
 ### Functions
-- [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Declaration.md) 
-- [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Call.md) 
-- [Function - Complete Example](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Complete.md) 
+- [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Declaration.md) 
+- [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Call.md) 
+- [Function - Complete Example](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Complete.md) 
