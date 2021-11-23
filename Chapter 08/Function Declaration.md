@@ -24,8 +24,8 @@ def f1(p):
 
 To keep tracking how to write functions, please, access the next link to learn how to call them.
 
-[Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Call.md)
+[Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Call.md)
 
-[Complete Example of Function](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Complete.md)
+[Complete Example of Function](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Complete.md)
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
