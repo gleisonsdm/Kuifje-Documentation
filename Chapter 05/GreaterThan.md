@@ -27,7 +27,7 @@ z = (x > y);
 Output of variable z:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 0.66 | False |
+| 1.00 | 0.67 | False |
 | | 0.33 | True |
 
 ## Example - Distribution Compared to Distribution
