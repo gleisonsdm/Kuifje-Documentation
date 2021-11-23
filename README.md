@@ -72,3 +72,6 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 - [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Declaration.md) 
 - [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Call.md) 
 - [Function - Complete Example](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Complete.md) 
+
+### Built-n Functions and Procedures
+- [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2009/Leak.md) 
