@@ -28,7 +28,7 @@ Output of variable z:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | False |
-| | 0.66 | True |
+| | 0.67 | True |
 
 ## Example - Distribution Compared to Distribution
 Program:
