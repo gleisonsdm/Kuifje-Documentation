@@ -16,6 +16,8 @@ The compiler that implements a prototype of this project is available at:
 Each of the subtitles conatins a group of operations which Kuifje supports.
 They can be used to manupulate Kuifje variables, providing facilities to model and operate with distributions and sets.
 
+---
+
 ### Assigning probabilities
 - [Attribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Attribution.md)
 - [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Sampling.md)
@@ -24,9 +26,13 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 - [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Direct%20Assignment.md)
 - [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
 
+---
+
 ### Assigning Values
 - [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
 - [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Uniform%20Set.md)
+
+---
 
 ### Aritimetic Operators
 - [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Plus.md)
@@ -36,10 +42,14 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 - [Remainder](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Remainder.md)
 - [Pow](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Pow.md)
 
+---
+
 ### Set Operators
 - [Union](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Union.md)
 - [Difference](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Difference.md)
 - [Intersection](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Intersection.md)
+
+---
 
 ### Comparison & Boolean Operators
 
@@ -51,27 +61,42 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 - [Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Equal.md)
 - [Not Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/NotEqual.md)
 
+---
+
 #### Set Comparison
 - [In](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/In.md)
 - [Not In](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/NotIn.md)
 - [Is Subset Of](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/IsSubsetOf.md)
+
+---
 
 #### Boolean operators
 - [And](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/And.md)
 - [Or](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Or.md)
 - [Not](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Not.md)
 
+---
+
 ### Conditionals
 - [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Expression%20IF.md)
 - [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Statement%20IF.md)
 
+---
+
 ### Repetition Structures
 - [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2007/While.md) 
+
+---
 
 ### Functions
 - [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Declaration.md) 
 - [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Call.md) 
 - [Function - Complete Example](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Complete.md) 
 
+---
+
 ### Built-n Functions and Procedures
 - [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2009/Leak.md) 
+
+---
+
