@@ -41,7 +41,25 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 - [Difference](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Difference.md)
 - [Intersection](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Intersection.md)
 
-### Comparison Boolean Operators
+### Comparison & Boolean Operators
+
+#### Aritimetic comparison
+- [Greater Than](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/GreaterThan.md)
+- [Greater or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Greater.md)
+- [Lower Than](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/LowerThan.md)
+- [Lower or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/LowerEqual.md)
+- [Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Equal.md)
+- [Not Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/NotEqual.md)
+
+#### Set Comparison
+- [In](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/In.md)
+- [Not In](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/NotIn.md)
+- [Is Subset Of](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/IsSubsetOf.md)
+
+#### Boolean operators
+- [And](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/And.md)
+- [Or](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Or.md)
+- [Not](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Not.md)
 
 ### Conditionals
 - [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Expression%20IF.md)
