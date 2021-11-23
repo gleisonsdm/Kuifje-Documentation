@@ -1,6 +1,7 @@
 # Function - Complete Example
 
-A full functional program using functions in Kuifje follows:
+A full program using functions in Kuifje is below.
+Notice that, dispide the 
 
 ```python
 prob = (1 [1/3] 2);
@@ -15,8 +16,49 @@ b = f1(prob01);
 leak(b);
 ```
 
-[Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Declaration.md)
+The program output, for each variable, is the following:
 
-[Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Function%20Call.md)
+Output of variable prob:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 0.33 | 1.00 |
+| | 0.67 | 2.00 |
+
+Output of variable prob01:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 0.33 | 1.00 | 1.00 |
+| 0.67 | 1.00 | 2.00 |
+
+Output of variable p, inside of function f1.
+The identifier of the variable is "f1.p".
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 0.33 | 1.00 | 1.00 |
+| 0.67 | 1.00 | 2.00 |
+
+Output of variable y, inside of function f1.
+The identifier of the variable is "f1.y".
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 0.33 | 1.00 | 4.00 |
+| 0.67 | 1.00 | 5.00 |
+
+Output of variable z, inside of function f1.
+The identifier of the variable is "f1.z".
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 0.33 | 1.00 | 3.00 |
+| 0.67 | 1.00 | 4.00 |
+
+Output of variable b:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 0.33 | 1.00 | 4.00 |
+| 0.67 | 1.00 | 5.00 |
+
+[Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Declaration.md)
+
+[Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Call.md)
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
