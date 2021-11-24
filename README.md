@@ -11,6 +11,12 @@ Our research pretends to increament this subset, by defining the expected behavi
 The compiler that implements a prototype of this project is available at:
 [Kuifje Compiler](https://github.com/gleisonsdm/kuifje-compiler)
 
+## About
+
+- [Kuifje Haskell Page](https://hackage.haskell.org/package/kuifje)
+- [Kuifje Papaer](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/kuifje.pdf)
+- [Slides](https://meloen.cs.kuleuven.be/pub/IFIP21/Brandenburg/ifip_kuifje.pdf)
+
 ## Summary
 
 Each of the subtitles conatins a group of operations which Kuifje supports.
