@@ -1,7 +1,12 @@
 # Geometric Distribution
 
 It is necessary support some distributions, to deal with real world scenarios and necessities of the user.
-One of these distributions is the Geometric distribution, which is denatated as following.
+One of these distributions is the Geometric distribution, which is denetated as following.
+
+The first parameter is the alpha that should be used.
+The second is the lower bound integer value that the distribution will show.
+The third parameter is the value where the distribution will be centered.
+And the last parameter value is the highest value the distribution will present.
 
 Example:
 ```sh
