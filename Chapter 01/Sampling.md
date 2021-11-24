@@ -38,7 +38,7 @@ The output for variable z in the program above is:
 | 1.00 | 1.00 | 1.0 |
 
 Now, the code will first assing a distribution to p, then x and y are sampled from p.
-Notice that sampling, we do not know the exectly value that should be assinged. Instead,
+Notice that sampling, we do not know the exactly value that should be assinged. Instead,
 it will assing the distribution itself.
 ```python
 p = uniform[0,1];
