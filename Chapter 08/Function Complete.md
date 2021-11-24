@@ -1,7 +1,6 @@
 # Function - Complete Example
 
 A full program using functions in Kuifje is below.
-Notice that, dispide the 
 
 ```python
 prob = (1 [1/3] 2);
