@@ -18,7 +18,7 @@ Output of variable x:
 It is also possible to multiply a value for each possible distribution value.
 Program:
 ```python
-guess = uniform [0..10];
+guess <- uniform [0..10];
 guess = guess * 2;
 ```
 
