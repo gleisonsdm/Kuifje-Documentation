@@ -2,7 +2,7 @@
 
 Kuifje supports sets of values.
 
-## Set without values (Gleison, what does that mean??)
+## Set constructor
 
 The way to create a set of values in kuifje follows.
 ```python
