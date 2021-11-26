@@ -16,7 +16,7 @@ Output or variable x:
 ## Example Distribution:
 Program:
 ```python
-x = uniform [1, 2, 3, 4];
+x <- uniform [1, 2, 3, 4];
 x = x % 3;
 ```
 
