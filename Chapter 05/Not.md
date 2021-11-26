@@ -6,7 +6,7 @@ The Not operator negates a boolean, it can be used to verify the oposity of a co
 
 Program:
 ```python
-x = uniform [1, 2, 3];
+x <- uniform [1, 2, 3];
 y = (x < 3) && (x > 1);
 z = ~y;
 ```
