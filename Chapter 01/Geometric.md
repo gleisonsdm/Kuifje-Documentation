@@ -1,8 +1,19 @@
 # The truncated geometric distribution
 
-It is possible to produce a truncated geometric distribution, defined as
+The geometric distribution assings the number Y = X − 1 of failures before the first success, supported on a set of integer values.
 
-(Give definition here),
+Pr(X = k) = (1 - p)<sup>(k - 1)</sup>p
+
+
+It is possible to produce a truncated geometric distribution, defined as:
+
+- Let 0 <= alpha <= 1.
+- Let start be the start point, where the distribution is centred on.
+- Let low, high be be the low and high limits, respectively.
+
+P(X | s) = (1 / (1 + alpha)) * alpha<sup>(low - start)</sup>; if x = low.<br/>
+P(X | s) = ((1 - alpha) / (1 + alpha)) * alpha<sup>(x - start)</sup>; if low < x < high.<br/>
+P(X | s) = (1 / (1 + alpha)) * alpha<sup>(high - start)</sup>; if x = high.<br/>
 
 where 
 
@@ -13,7 +24,7 @@ where
 
 Example:
 ```sh
-  x = geometric(1/2,0,0,4);
+  x <- geometric(1/2,0,0,4);
 ```
 
 It represens a distribution such as:
