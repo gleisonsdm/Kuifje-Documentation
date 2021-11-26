@@ -22,8 +22,8 @@ For instance, the following program assigns uniform probability over sets v1, v2
 ```python
 v1 = set {1, 1};
 v2 = set {0, 0};
-y = uniform [v1, v2];
-x = uniform y;
+y <- uniform [v1, v2];
+x <- uniform y;
 leak(x);
 ```
 The outputs follows. 
