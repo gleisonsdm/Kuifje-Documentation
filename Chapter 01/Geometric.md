@@ -1,7 +1,10 @@
-# Geometric Distribution
+# The truncated geometric distribution
 
-It is necessary support some distributions, to deal with real world scenarios and necessities of the user.
-One of these distributions is the Geometric distribution, which is denetated as following.
+It is possible to produce a truncated geometric distribution, defined as
+
+(Give definition here),
+
+where 
 
 - The first parameter is the alpha that should be used.
 - The second is the lower bound integer value that the distribution will show.
