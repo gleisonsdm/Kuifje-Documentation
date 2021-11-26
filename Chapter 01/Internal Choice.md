@@ -1,7 +1,6 @@
 # Internal Choice
 
-Often, it is necessary to model choices that are not visible to the adversary.
-To such situations, Kuifje allow as to explicitly assign such choices to a variable.
+Kuifjes allows internal probabilistic choice --whose results are not visible to the adversary-- among values.
 The syntax follows below.
 
 Example:
@@ -13,10 +12,7 @@ It is equivalent to:
 ```sh
   x = uniform [1, 2, 2, 3];
 ```
-
 The value of x is given below. Notice that, in essence, any distribution is an internal choice of values.
-By internal, we mean a choice of values with probabilities given by a distribution.
-The choices create together a map of values and their possibility of happening.
 
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
