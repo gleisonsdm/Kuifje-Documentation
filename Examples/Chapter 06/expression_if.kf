@@ -1,3 +1,7 @@
-x := 0 [1/2] 1;
-y := if (x > 0) then (1) else (2) fi;
-leak y;
+x <- (0 [1/2] (1 [1/2] 2));
+y = if x > 1: 
+    4
+  elif x > 0:
+    5
+  else:
+    6;

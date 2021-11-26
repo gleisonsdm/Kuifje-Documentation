@@ -1,3 +1,0 @@
-guess := uniform [1..11];
-guess := guess - 1;
-leak guess;
