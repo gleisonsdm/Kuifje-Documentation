@@ -36,7 +36,6 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 
 ### Assigning Values
 - [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
-- [Uniform Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Uniform%20Set.md)
 
 ---
 
