@@ -3,7 +3,7 @@
 To assign a probability distribution to a variable in Kuifje, the symbol "=" is used.
 
 ```python
-  x = uniform [1,2,3];
+  x <- uniform [1,2,3];
 ```
 
 The output of this command for variable "x" is:
