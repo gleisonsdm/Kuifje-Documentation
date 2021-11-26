@@ -26,8 +26,8 @@ x <- uniform set {1, 2, 3};
 The distribution generated is:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
-| 0.33 | 1.00 | 1.0 |
-| 0.33 | 1.00 | 2.0 |
-| 0.33 | 1.00 | 3.0 |
+| 1.00 | 0.33 | 1.0 |
+| | 0.33 | 2.0 |
+| | 0.33 | 3.0 |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
