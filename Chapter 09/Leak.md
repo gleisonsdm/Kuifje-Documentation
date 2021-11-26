@@ -7,7 +7,7 @@ It is used to leak values of variables, which an adversary can learn about the p
 
 Program:
 ```python
-x = uniform [1, 2];
+x <- uniform [1, 2];
 ```
 
 Output or variable x:
@@ -19,7 +19,7 @@ Output or variable x:
 
 Program:
 ```python
-x = uniform [1, 2];
+x <- uniform [1, 2];
 leak(x);
 ```
 
