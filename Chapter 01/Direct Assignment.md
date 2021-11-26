@@ -1,4 +1,4 @@
-# Direct Assignment
+# Specifying probability values directly
 
 Describes an assignment created by the user, associating
 the probability to a value directly. The operator to
