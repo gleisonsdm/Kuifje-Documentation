@@ -6,7 +6,7 @@ The Or operator is used to verify if at least one of two conditions are valid.
 
 Program:
 ```python
-x = uniform [1, 2, 3];
+x <- uniform [1, 2, 3];
 y = (x < 2) || (x > 2);
 ```
 
