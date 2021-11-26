@@ -5,12 +5,12 @@ The syntax follows below.
 
 Example:
 ```sh
-  x = (1 [1/4] (2 [2/3] 3));
+  x <- (1 [1/4] (2 [2/3] 3));
 ```
 
 It is equivalent to:
 ```sh
-  x = uniform [1, 2, 2, 3];
+  x <- uniform [1, 2, 2, 3];
 ```
 The value of x is given below. Notice that, in essence, any distribution is an internal choice of values.
 
