@@ -1,6 +1,6 @@
-# Sampling
+# Sampling from a probability distribution
 
-Kuifje allow sampling from a distribution. The symbol used is "<-"
+Kuifje allows sampling from a probability distribution. The symbol used is "<-"
 
 ```python
   x <- uniform [1,2,3];
@@ -13,17 +13,16 @@ The output of this command for variable "x" is:
 | | 0.33 | 2 |
 | | 0.33 | 3 |
 
-At this point, it looks similar to the attribution behavior, but it is not.
-The assign will pick value, which means that it is possible to know if the value
-is "a" or "b".
-On the other hand, the sampling will generate the distribution itself, or the
-probability of each possible value be assingnedd
-Let's understand better the behavior with an example.
+Note that sampling from a distribution has a distinct effect from the assignment of a distribution.
+When a variable is assigned a distribution, the variable is itself a distribution from which sampling can be made in the future.
+When a distribution is sampled from and the resulting value is assigned to a variable, the variable's value is fixed.
+
+The difference is illustrated in the following example.
 
 ## Example (Sampling vs. Attribution)
 
-First, let's get a sample from an uniform distribution, then assign it twice and
-compare variables.
+First, in the following program p is sampled from a uniform distribution, and from that point on the variable has a fixed value (be it 0 or 1). When x and y are assigned the value of p, they both end up with the same value (again, be it 0 or 1). Because of that, the variable z will always be assigned value 1, indicating x and y are necessarily equal.
+
 ```python
 p <- uniform[0,1];
 x = p;
@@ -37,9 +36,8 @@ The output for variable z in the program above is:
 | --- | --- | --- |
 | 1.00 | 1.00 | 1.0 |
 
-Now, the code will first assing a distribution to p, then x and y are sampled from p.
-Notice that sampling, we do not know the exactly value that should be assinged. Instead,
-it will assing the distribution itself.
+Now, in the following program, p is attributed the uniform distribution on 0 and 1, and then x and y are sampled from x. This has the effect of x and y independetely getting a value between 0 and 1.  Because of that, the variable z may have value 0 or 1 with equal probability, reflecting the fact that x and y may or may not have equal values.
+
 ```python
 p = uniform[0,1];
 x <- p;
