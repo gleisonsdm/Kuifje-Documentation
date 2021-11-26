@@ -1,11 +1,14 @@
-# Uniform Assignment
+# The uniform distribution
 
-Describes an assignment where each value has the same probability
+Describes a uniform distribution on the list of values.
+(Gleison, here you should be exemplifying with sampling, not with assignment).
 
 Example:
 ```sh
-  x = uniform [1, 2, 2, 3];
+  x <- uniform [1, 2, 2, 3];
 ```
+
+(Gleison, change output accordingly).
 
 It is output follows:
 | Probability of the disitrbution happen | Distribution | Value | 
