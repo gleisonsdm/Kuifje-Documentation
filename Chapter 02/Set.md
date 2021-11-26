@@ -1,8 +1,8 @@
 # Set
 
-Set is used to associate values directly, without the need of defining the associated distribution.
+Kuifje supports sets of values.
 
-## Set without values
+## Set without values (Gleison, what does that mean??)
 
 The way to create a set of values in kuifje follows.
 ```python
@@ -14,11 +14,11 @@ And its output of the variable "x" is given below:
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0, R 3.0 ] |
 
-## A whole program constructed by using set
-A set also can be used as a value as well (i.e. as 1, 2, ...).
-After assigning the values to a variable, it is possible to associated values with probabilities.
+## A whole program constructed by using sets
+A set is itself a value, and can be assigned probabilities.
 
-The program is the following:
+For instance, the following program assigns uniform probability over sets v1, v2.
+
 ```python
 v1 = set {1, 1};
 v2 = set {0, 0};
@@ -26,7 +26,7 @@ y = uniform [v1, v2];
 x = uniform y;
 leak(x);
 ```
-The outputs follows.
+The outputs follows. 
 
 Variable v1:
 | Probability of the disitrbution happen | Distribution | Value | 
