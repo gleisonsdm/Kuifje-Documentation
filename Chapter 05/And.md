@@ -6,7 +6,7 @@ The And operator is used to verify if two conditions are true in the same time.
 
 Program:
 ```python
-x = uniform [1, 2, 3];
+x <- uniform [1, 2, 3];
 y = (x < 3) && (x > 1);
 ```
 
