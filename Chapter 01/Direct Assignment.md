@@ -6,12 +6,12 @@ this operation is the "@".
 
 Example:
 ```sh
-  x = [1@(1/4), 2@(1/2), 3@(1/4)];
+  x <- [1@(1/4), 2@(1/2), 3@(1/4)];
 ```
 
 It is equivalent to:
 ```sh
-  x = uniform [1, 2, 2, 3];
+  x <- uniform [1, 2, 2, 3];
 ```
 
 And the distribution of variable x is:
