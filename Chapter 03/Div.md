@@ -28,7 +28,7 @@ Output or variable y:
 ## Division of distribution with integer result
 Program:
 ```python
-guess = uniform [3,5,7];
+guess <- uniform [3,5,7];
 guess = guess div 2;
 ```
 
@@ -42,7 +42,7 @@ Output or variable guess:
 ## Division of distribution with floating result
 Program:
 ```python
-guess = uniform [3,5,7];
+guess <- uniform [3,5,7];
 guess = guess / 2;
 ```
 
