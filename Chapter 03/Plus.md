@@ -19,7 +19,7 @@ Output or variable x:
 ## Example - Distribution Addition
 Program:
 ```python
-y = uniform [1,2,3];
+y <- uniform [1,2,3];
 x = y + 1;
 ```
 
