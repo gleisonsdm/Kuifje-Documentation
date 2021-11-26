@@ -19,7 +19,7 @@ Output or variable z:
 ## Example - Distribution Compared to Number
 Program:
 ```python
-x = uniform [1, 2, 3];
+x <- uniform [1, 2, 3];
 y = 2;
 z = (x == y);
 ```
@@ -33,8 +33,8 @@ Output of variable z:
 ## Example - Distribution Compared to Distribution
 Program:
 ```python
-x = uniform [1, 2, 3];
-y = uniform [1, 2, 3, 4];
+x <- uniform [1, 2, 3];
+y <- uniform [1, 2, 3, 4];
 z = (x == y);
 ```
 
