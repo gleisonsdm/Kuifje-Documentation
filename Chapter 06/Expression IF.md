@@ -5,7 +5,7 @@ By expression, we mean a decision made by a user where an adversary cannot obser
 
 Example:
 ```python
-x = (0 [1/2] (1 [1/2] 2));
+x <- (0 [1/2] (1 [1/2] 2));
 y = if x > 1: 
     4
   elif x > 0:
