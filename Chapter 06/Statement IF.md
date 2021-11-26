@@ -1,7 +1,7 @@
 # Statement IF
 
-Ifs can be constructed as Expressions or Statements. Statement Ifs represents a decision where an adversary
-knows where the value has came from.
+Ifs can be constructed as Expressions or Statements. Statement If represents a decision where an adversary
+knows where the value came from.
 
 Example:
 ```python
