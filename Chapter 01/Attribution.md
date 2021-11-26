@@ -1,6 +1,6 @@
-# Attribution
+# Attributing probability distributions
 
-To assign a value in Kuifje, the symbol "=" is used.
+To assign a probability distribution to a variable in Kuifje, the symbol "=" is used.
 
 ```python
   x = uniform [1,2,3];
