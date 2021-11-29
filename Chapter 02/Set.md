@@ -2,6 +2,10 @@
 
 Kuifje supports sets of values.
 
+[Set Constructor](## Set constructor)
+[Set Operators](## Set Operators)
+[Set Comparison](## Set Comparison)
+
 ---
 
 ## Set constructor
@@ -15,6 +19,8 @@ And its output of the variable "x" is given below:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0, R 3.0 ] |
+
+#
 
 ## A whole program constructed by using sets
 A set is itself a value, and can be assigned probabilities.
@@ -77,6 +83,8 @@ Output of variable z:
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0, R 3.0 ] |
 
+#
+
 ### Difference
 
 To calculate the difference betweeen two sets, the symbol is the minus "-".
@@ -96,6 +104,8 @@ Output of variable z:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0 ] |
+
+#
 
 ### Intersection operator
 
@@ -152,6 +162,8 @@ Output of variable z:
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
+#
+
 ### Not In
 
 Verifies if a value is not in a given subset.
@@ -174,6 +186,8 @@ Output of variable z:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
+
+#
 
 ### Is Subset Of
 
