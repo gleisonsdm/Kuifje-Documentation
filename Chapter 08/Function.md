@@ -7,6 +7,10 @@ The other characteristic is that all values are in the parameters are passed by 
 This means that, if a value is modified inside the function, it does not affect any other variable (except by the return value).
 As the language is probabilistic, multiple return points can be simulated by using a distribution, and any possible value can be the observable return value.
 
+- [Function Declaration](#function-declaration)
+- [Function Call](#function-call)
+- [Function Complete Example](#function-complete-example)
+
 ---
 
 ## Function Declaration
@@ -53,7 +57,7 @@ leak(b);
 
 ---
 
-## Function - Complete Example
+## Function Complete Example
 
 A full program using functions in Kuifje is showed below.
 
