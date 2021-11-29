@@ -16,7 +16,7 @@ b = f1(prob01);
 leak(b);
 ```
 
-The link "omplete Example of Function" shows a full implemented, compilable example of a function a how to call it.
+The link "complete Example of Function" shows a full implemented, compilable example of a function a how to call it.
 
 [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Declaration.md)
 
