@@ -17,6 +17,8 @@ The plus operator can be used to add some value to a variable.
 
 Example of programs and expected behavior are given below, as the operator produces different output values depending on the variable type:
 
+#
+
 ### Example - Integer Addition
 
 Program:
@@ -28,6 +30,8 @@ Output or variable x:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 3.0 |
+
+#
 
 ### Example - Distribution Addition
 Program:
@@ -51,6 +55,8 @@ The minus operator can be used to subtract a value of a variable.
 
 Programs and their outputs are given following. The operator is adapted to the type.
 
+#
+
 ### Example - Integer Subtraction
 
 Program:
@@ -62,6 +68,8 @@ Output or variable x:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 1.0 |
+
+#
 
 ### Example - Distribution Subtraction
 
@@ -84,6 +92,8 @@ Output of variable x:
 
 The times operator multiply values, it works for both value and values of a distributions.
 
+#
+
 ### Example Integer Multiplication
 Program:
 ```python
@@ -94,6 +104,8 @@ Output of variable x:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 6.0 |
+
+#
 
 ### Example Distribution
 It is also possible to multiply a value for each possible distribution value.
@@ -125,6 +137,8 @@ Output of variable guess:
 Kuifje allow users to divide two values, truncating them or not.
 Truncate the values is usefull to get the integer part of a division, whereas the division itself can produce floating point values.
 
+#
+
 ### Example Division with integer result
 Program:
 ```python
@@ -136,6 +150,8 @@ Output or variable x:
 | --- | --- | --- |
 | 1.00 | 1.00 | 2.0 |
 
+#
+
 ### Example Division with floating result
 Program:
 ```python
@@ -146,6 +162,8 @@ Output or variable y:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 2.3333333333333335 |
+
+#
 
 ### Division of distribution with integer result
 Program:
@@ -160,6 +178,8 @@ Output or variable guess:
 | 1.00 | 0.33 | 1.0 |
 | | 0.33 | 2.0 |
 | | 0.33 | 3.0 |
+
+#
 
 ### Division of distribution with floating result
 Program:
@@ -181,6 +201,8 @@ Output or variable guess:
 
 Remainder is used to find the value left over a division.
 
+#
+
 ### Example Integer:
 Program:
 ```python
@@ -191,6 +213,8 @@ Output or variable x:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 2.0 |
+
+#
 
 ### Example Distribution:
 Program:
@@ -212,6 +236,8 @@ Output or variable x:
 
 Pow is used to estipulate the number of times a value should be multiplied by itself.
 
+#
+
 ### Example Integer
 Program:
 ```python
@@ -222,6 +248,8 @@ Output or variable x:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 8.0 |
+
+#
 
 ### Example Distribution
 Program:
