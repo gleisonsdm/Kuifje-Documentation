@@ -2,13 +2,13 @@
 
 Kuifje supports sets of values.
 
-[Set Constructor](## Set constructor)
-[Set Operators](## Set Operators)
-[Set Comparison](## Set Comparison)
+- [Constructor](#set-constructor)
+- [Operators](#set-operators)
+- [Comparison](#set-comparison)
 
 ---
 
-## Set constructor
+## Set Constructor
 
 The way to create a set of values in kuifje follows.
 ```python
