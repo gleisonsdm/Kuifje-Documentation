@@ -2,6 +2,10 @@
 
 The boolean operators implemented in Kuifje.
 
+- [AND](#and)
+- [OR](#or)
+- [NOT](#not)
+
 ---
 
 ## And
