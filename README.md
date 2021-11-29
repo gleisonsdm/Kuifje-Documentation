@@ -36,17 +36,8 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 
 ### Operations
 - [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
-- [Aritimetic Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Aritimetic.md)
-
-### Comparison & Boolean Operators
-
-#### Aritimetic comparison
-- [Greater Than](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/GreaterThan.md)
-- [Greater or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/GreaterEqual.md)
-- [Lower Than](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/LowerThan.md)
-- [Lower or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/LowerEqual.md)
-- [Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Equal.md)
-- [Not Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/NotEqual.md)
+- [Aritimetic Operations](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Aritimetic.md)
+- [Comparing Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Comparison.md)
 
 ---
 
