@@ -34,20 +34,9 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 
 ---
 
-### Assigning Values
+### Operations
 - [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
-
----
-
-### Aritimetic Operators
-- [Plus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Plus.md)
-- [Minus](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Minus.md)
-- [Times](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Times.md)
-- [Division](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Div.md)
-- [Remainder](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Remainder.md)
-- [Pow](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Pow.md)
-
----
+- [Aritimetic Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Aritimetic.md)
 
 ### Comparison & Boolean Operators
 
