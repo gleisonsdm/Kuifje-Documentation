@@ -49,13 +49,6 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 
 ---
 
-### Set Operators
-- [Union](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Union.md)
-- [Difference](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Difference.md)
-- [Intersection](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2004/Intersection.md)
-
----
-
 ### Comparison & Boolean Operators
 
 #### Aritimetic comparison
@@ -65,13 +58,6 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 - [Lower or Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/LowerEqual.md)
 - [Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Equal.md)
 - [Not Equal](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/NotEqual.md)
-
----
-
-#### Set Comparison
-- [In](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/In.md)
-- [Not In](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/NotIn.md)
-- [Is Subset Of](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/IsSubsetOf.md)
 
 ---
 
