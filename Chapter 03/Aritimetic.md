@@ -5,7 +5,7 @@ This file describes the aritimetic operators in Kuifje and presents examples of 
 - [Plus](#plus-operator)
 - [Minus](#minus-operator)
 - [Times](#times-operator)
-- [Division](#division-operator)
+- [Division](#division-operators)
 - [Remainder](#remainder-operator)
 - [Pow](#pow-operator)
 
