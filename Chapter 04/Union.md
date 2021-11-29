@@ -1,8 +1,6 @@
 # Union
 
-To perform the union of two sets, the operator is the plus.
-Kuifje detect that both variables are sets, and creates a new set with all elements.
-If a value is duplicated, 
+Kuifje implements union of sets with the plus operator.
 
 ## Example - Union of Sets
 
