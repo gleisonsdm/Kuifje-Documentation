@@ -2,6 +2,9 @@
 
 The commands to implement conditional logic in Kuifje.
 
+- [If - Internal Choice](#if-internal-choice)
+- [If - External Choice](#if-external-choice)
+
 ---
 
 ## IF - Internal Choice
