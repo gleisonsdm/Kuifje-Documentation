@@ -2,6 +2,8 @@
 
 Kuifje supports sets of values.
 
+---
+
 ## Set constructor
 
 The way to create a set of values in kuifje follows.
@@ -49,6 +51,8 @@ Variable y:
 | --- | --- | --- |
 | 0.50 | 1.00 | S [ R 0.0 ] |
 | 0.50 | 1.00 | S [ R 1.0 ] |
+
+---
 
 ## Set Operators
 
@@ -120,5 +124,86 @@ Output or variable z:
 | Probability of the disitrbution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 2.0 ] |
+
+---
+
+## Set Comparison
+
+### In
+
+Verifies if a value is in a given subset.
+
+#### Example
+
+Program:
+```python
+x = set {1, 2, 3};
+y = 2 in x;
+z = 4 in x;
+```
+
+Output or variable y:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+Output of variable z:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | False |
+
+### Not In
+
+Verifies if a value is not in a given subset.
+
+#### Example
+
+Program:
+```python
+x = set {1, 2, 3};
+y = 2 nin x;
+z = 4 nin x;
+```
+
+Output or variable y:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+Output of variable z:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | False |
+
+### Is Subset Of
+
+Check if a set is a strictly subset of a given set.
+
+#### Example
+
+Program:
+```python
+x = set {1, 2, 3};
+y = set {1, 2};
+z = y isSubOf x;
+```
+
+Output of variable z:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+Program:
+```python
+x = set {1, 2, 3};
+y = set {1, 2, 3, 4};
+z = y isSubOf x;
+```
+
+Output of variable z:
+| Probability of the disitrbution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | False |
+
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
