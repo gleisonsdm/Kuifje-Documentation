@@ -34,20 +34,6 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 
 ---
 
-### Operations
-- [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
-- [Aritimetic Operations](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Aritimetic.md)
-- [Comparing Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Comparison.md)
-
----
-
-#### Boolean operators
-- [And](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/And.md)
-- [Or](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Or.md)
-- [Not](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Not.md)
-
----
-
 ### Conditionals
 - [Expression IF - Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Expression%20IF.md)
 - [Statement IF - External Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Statement%20IF.md)
