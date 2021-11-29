@@ -2,12 +2,12 @@
 
 The commands to implement conditional logic in Kuifje.
 
-- [If - Internal Choice](#if---internal---choice)
-- [If - External Choice](#if---external---choice)
+- [If - Internal Choice](#if-internal-choice)
+- [If - External Choice](#if-external-choice)
 
 ---
 
-## IF - Internal Choice
+## IF Internal Choice
 
 The if command can be used to chose values hidden from the adversary.
 The syntax is similar to Python, except that it returns a value, and is an unique command (such as a ternary operator in other languages).
@@ -42,7 +42,7 @@ Output of variable y:
 
 ---
 
-## IF - External Choice
+## IF External Choice
 
 This if represents a decision made and that was observed by an adversary.
 The syntax is equal to the ifs in Python.
