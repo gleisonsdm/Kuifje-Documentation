@@ -41,17 +41,7 @@ They can be used to manupulate Kuifje variables, providing facilities to model a
 - [Boolean Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Boolean.md)
 - [Conditionals](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Conditionals.md)
 - [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2007/While.md) 
-
----
-
-### Functions
-- [Function Declaration](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Declaration.md) 
-- [Function Call](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Call.md) 
-- [Function - Complete Example](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function%20Complete.md) 
-
----
-
-### Built-n Functions and Procedures
+- [Functions](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function.md)
 - [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2009/Leak.md) 
 
 ---
