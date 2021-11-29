@@ -3,10 +3,10 @@
 This document describes all the operators used to compare distribution with distributions or distributions with numbers.
 
 - [Greater Than](#greater-than)
-- [Greater Equal](#greater-equal)
+- [Greater Equal](#greater-or-equal)
 - [Lower Than](#lower-than)
-- [Lower Equal](#lower-equal)
-- [Equals](#equals)
+- [Lower Equal](#lower-or-equal)
+- [Equal](#equal)
 - [Not Equals](#not-equal)
 
 ---
