@@ -15,7 +15,7 @@ It is equivalent to:
 ```
 
 And the distribution of variable x is:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.25 | 1.0 |
 | | 0.50 | 2.0 |
