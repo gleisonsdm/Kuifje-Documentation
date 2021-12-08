@@ -1,4 +1,4 @@
-# Aritimetic Comparison Operators
+# Arithmetic Comparison Operators
 
 This document describes all the operators used to compare distribution with distributions or distributions with numbers.
 
@@ -13,7 +13,7 @@ This document describes all the operators used to compare distribution with dist
 
 ## Greater Than
 
-Compares two integers, or distributions, and report the result.
+Compare two integers, or distributions, and report the result.
 
 #
 
@@ -27,7 +27,7 @@ z = (x > y);
 ```
 
 Output or variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
@@ -42,7 +42,7 @@ z = (x > y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.67 | False |
 | | 0.33 | True |
@@ -58,7 +58,7 @@ z = (x > y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.75 | False |
 | | 0.25 | True |
@@ -67,7 +67,7 @@ Output of variable z:
 
 ## Greater or Equal
 
-Compares two integers, or distributions, and report the result.
+Compare two integers, or distributions, and report the result.
 
 #
 
@@ -81,7 +81,7 @@ z = (x >= y);
 ```
 
 Output or variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
@@ -96,7 +96,7 @@ z = (x >= y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | False |
 | | 0.67 | True |
@@ -112,7 +112,7 @@ z = (x >= y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.50 | False |
 | | 0.50 | True |
@@ -121,7 +121,7 @@ Output of variable z:
 
 ## Lower Than
 
-Compares two integers, or distributions, and report the result.
+Compare two integers, or distributions, and report the result.
 
 #
 
@@ -135,7 +135,7 @@ z = (x < y);
 ```
 
 Output or variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | True |
 
@@ -150,7 +150,7 @@ z = (x < y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.67 | False |
 | | 0.33 | True |
@@ -166,7 +166,7 @@ z = (x < y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.50 | False |
 | | 0.50 | True |
@@ -175,7 +175,7 @@ Output of variable z:
 
 ## Lower or Equal
 
-Compares two integers, or distributions, and report the result.
+Compare two integers, or distributions, and report the result.
 
 #
 
@@ -189,7 +189,7 @@ z = (x <= y);
 ```
 
 Output or variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | True |
 
@@ -204,7 +204,7 @@ z = (x <= y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | False |
 | | 0.67 | True |
@@ -220,7 +220,7 @@ z = (x <= y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.25 | False |
 | | 0.75 | True |
@@ -229,7 +229,7 @@ Output of variable z:
 
 ## Equal
 
-Compares two integers, or distributions, and report the result.
+Compare two integers, or distributions, and report the result.
 
 #
 
@@ -243,7 +243,7 @@ z = (x == y);
 ```
 
 Output or variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
@@ -258,7 +258,7 @@ z = (x == y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.67 | False |
 | | 0.33 | True |
@@ -274,7 +274,7 @@ z = (x == y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.75 | False |
 | | 0.25 | True |
@@ -283,7 +283,7 @@ Output of variable z:
 
 ## Not Equal
 
-Compares two integers, or distributions, and report the result.
+Compare two integers, or distributions, and report the result.
 
 #
 
@@ -297,7 +297,7 @@ z = (x != y);
 ```
 
 Output or variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | True |
 
@@ -312,7 +312,7 @@ z = (x != y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | False |
 | | 0.67 | True |
@@ -328,7 +328,7 @@ z = (x != y);
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.25 | False |
 | | 0.75 | True |
