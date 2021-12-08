@@ -14,7 +14,7 @@ while i < 2:
 ```
 
 Output of variable p:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 0.29 | 0.16 | 0.3 |
 | | 0.84 | 0.7 |
@@ -24,7 +24,7 @@ Output of variable p:
 | | 0.16 | 0.7 |
 
 Output of variable result:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 0.50 | 1.00 | 0.00 |
 | 0.50 | 1.00 | 1.00 |
