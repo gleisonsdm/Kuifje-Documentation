@@ -8,7 +8,7 @@ Example:
 ```
 
 It is output follows:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.25 | 1.0 |
 | | 0.50 | 2.0 |
@@ -16,7 +16,7 @@ It is output follows:
 
 # Uniform Set
 
-Assign an uniform distribution to the elements of a giver Set of values.
+Assign an uniform distribution to the elements of a given Set of values.
 
 Example:
 ```sh
@@ -24,7 +24,7 @@ x <- uniform set {1, 2, 3};
 ```
 
 The distribution generated is:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 1.0 |
 | | 0.33 | 2.0 |
