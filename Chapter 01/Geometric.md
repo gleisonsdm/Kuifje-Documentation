@@ -1,6 +1,6 @@
 # The truncated geometric distribution
 
-The geometric distribution assings the number Y = X − 1 of failures before the first success, supported on a set of integer values.
+The geometric distribution assigns the number Y = X − 1 of failures before the first success, supported on a set of integer values.
 
 Pr(X = k) = (1 - p)<sup>(k - 1)</sup>p
 
@@ -8,8 +8,8 @@ Pr(X = k) = (1 - p)<sup>(k - 1)</sup>p
 It is possible to produce a truncated geometric distribution, defined as:
 
 - Let 0 <= alpha <= 1.
-- Let start be the start point, where the distribution is centred on.
-- Let low, high be be the low and high limits, respectively.
+- Let start be the start point, where the distribution is centered on.
+- Let low, high be the low and high limits, respectively.
 
 P(X | s) = (1 / (1 + alpha)) * alpha<sup>(low - start)</sup>; if x = low.<br/>
 P(X | s) = ((1 - alpha) / (1 + alpha)) * alpha<sup>(x - start)</sup>; if low < x < high.<br/>
@@ -27,8 +27,8 @@ Example:
   x <- geometric(1/2,0,0,4);
 ```
 
-It represens a distribution such as:
-| Probability of the disitrbution happen | Distribution | Value | 
+It represents a distribution such as:
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.67 | 0.0 |
 | | 0.17 | 1.0 |
