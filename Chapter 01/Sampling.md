@@ -7,7 +7,7 @@ Kuifje allows sampling from a probability distribution. The symbol used is "<-"
 ```
 
 The output of this command for variable "x" is:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 1 |
 | | 0.33 | 2 |
@@ -32,11 +32,11 @@ leak(z);
 ```
 
 The output for variable z in the program above is:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 1.0 |
 
-Now, in the following program, p is attributed the uniform distribution on 0 and 1, and then x and y are sampled from x. This has the effect of x and y independetely getting a value between 0 and 1.  Because of that, the variable z may have value 0 or 1 with equal probability, reflecting the fact that x and y may or may not have equal values.
+Now, in the following program, p is attributed the uniform distribution on 0 and 1, and then x and y are sampled from x. This has the effect of x and y independently getting a value between 0 and 1.  Because of that, the variable z may have value 0 or 1 with equal probability, reflecting the fact that x and y may or may not have equal values.
 
 ```python
 p = uniform[0,1];
@@ -47,10 +47,11 @@ leak(z);
 ```
 
 The output for variable z in the program above is:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 0.50 | 1.00 | 0.00 |
 | 0.50 | 1.00 | 1.00 |
 
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
+
