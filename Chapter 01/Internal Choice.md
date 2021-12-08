@@ -14,7 +14,7 @@ It is equivalent to:
 ```
 The value of x is given below. Notice that, in essence, any distribution is an internal choice of values.
 
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.25 | 1.0 |
 | | 0.50 | 2.0 |
