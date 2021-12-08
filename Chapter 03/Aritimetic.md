@@ -1,6 +1,6 @@
-# Aritimetic Operators
+# Arithmetic Operators
 
-This file describes the aritimetic operators in Kuifje and presents examples of usage.
+This file describes the arithmetic operators in Kuifje and presents examples of usage.
 
 - [Plus](#plus-operator)
 - [Minus](#minus-operator)
@@ -27,7 +27,7 @@ x = 2 + 1;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 3.0 |
 
@@ -41,7 +41,7 @@ x = y + 1;
 ```
 
 Output of variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 2.0 |
 | | 0.33 | 3.0 |
@@ -65,7 +65,7 @@ x = 2 - 1;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 1.0 |
 
@@ -80,7 +80,7 @@ x = y - 1;
 ```
 
 Output of variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 0.0 |
 | | 0.33 | 1.0 |
@@ -90,7 +90,7 @@ Output of variable x:
 
 ## Times operator
 
-The times operator multiply values, it works for both value and values of a distributions.
+The times operator multiply values, it works for both value and values of a distribution.
 
 #
 
@@ -101,7 +101,7 @@ x = 2 * 3;
 ```
 
 Output of variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 6.0 |
 
@@ -116,7 +116,7 @@ guess = guess * 2;
 ```
 
 Output of variable guess:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.09 | 0.0 |
 | | 0.09 | 2.0 |
@@ -134,8 +134,8 @@ Output of variable guess:
 
 ## Division operators
 
-Kuifje allow users to divide two values, truncating them or not.
-Truncate the values is usefull to get the integer part of a division, whereas the division itself can produce floating point values.
+Kuifje allows users to divide two values, truncating them or not.
+Truncate the values is useful to get the integer part of a division, whereas the division itself can produce floating point values.
 
 #
 
@@ -146,7 +146,7 @@ x = 7 div 3;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 2.0 |
 
@@ -159,7 +159,7 @@ y = 7 / 3;
 ```
 
 Output or variable y:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 2.3333333333333335 |
 
@@ -173,7 +173,7 @@ guess = guess div 2;
 ```
 
 Output or variable guess:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 1.0 |
 | | 0.33 | 2.0 |
@@ -189,7 +189,7 @@ guess = guess / 2;
 ```
 
 Output or variable guess:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 1.5 |
 | | 0.33 | 2.5 |
@@ -210,7 +210,7 @@ x = 5 % 3;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 2.0 |
 
@@ -224,7 +224,7 @@ x = x % 3;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.25 | 0.0 |
 | | 0.50 | 1.0 |
@@ -234,7 +234,7 @@ Output or variable x:
 
 ## Pow operator
 
-Pow is used to estipulate the number of times a value should be multiplied by itself.
+Pow is used to stipulate the number of times a value should be multiplied by itself.
 
 #
 
@@ -245,7 +245,7 @@ x = 2 ^ 3;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | 8.0 |
 
@@ -259,7 +259,7 @@ x = x ^ 3;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.33 | 1.0 |
 | | 0.33 | 8.0 |
