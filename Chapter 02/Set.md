@@ -16,7 +16,7 @@ x = set {1, 2, 3};
 ```
 
 And its output of the variable "x" is given below:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0, R 3.0 ] |
 
@@ -34,26 +34,26 @@ y <- uniform [v1, v2];
 x <- uniform y;
 leak(x);
 ```
-The outputs follows. 
+The output follows. 
 
 Variable v1:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0 ] |
 
 Variable v2:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 0.0 ] |
 
 Variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 0.50 | 1.00 | 0.0 |
 | 0.50 | 1.00 | 1.0 |
 
 Variable y:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 0.50 | 1.00 | S [ R 0.0 ] |
 | 0.50 | 1.00 | S [ R 1.0 ] |
@@ -65,7 +65,7 @@ Variable y:
 ### Union
 
 To perform the union of two sets, the operator is the plus.
-Kuifje detect that both variables are sets, and creates a new set with all elements.
+Kuifje detects that both variables are sets, and creates a new set with all elements.
 If a value is duplicated, 
 
 #### Example - Union of Sets
@@ -79,7 +79,7 @@ z = x + y;
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0, R 3.0 ] |
 
@@ -87,8 +87,8 @@ Output of variable z:
 
 ### Difference
 
-To calculate the difference betweeen two sets, the symbol is the minus "-".
-Kuifje will identify the variable types, and it creates a new set with the values present in the first set and that do not exists in the second set.
+To calculate the difference between two sets, the symbol is the minus "-".
+Kuifje will identify the variable types, and it creates a new set with the values present in the first set and that do not exist in the second set.
 
 #### Example - Difference of Sets
 
@@ -101,7 +101,7 @@ z = x - y;
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0 ] |
 
@@ -121,17 +121,17 @@ z = x & y;
 ```
 
 Output or variable x:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 1.0, R 2.0 ] |
 
 Output or variable y:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 2.0, R 3.0 ] |
 
 Output or variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 2.0 ] |
 
@@ -153,12 +153,12 @@ z = 4 in x;
 ```
 
 Output or variable y:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | True |
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
@@ -178,12 +178,12 @@ z = 4 nin x;
 ```
 
 Output or variable y:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | True |
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
@@ -203,7 +203,7 @@ z = y isSubOf x;
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | True |
 
@@ -215,7 +215,7 @@ z = y isSubOf x;
 ```
 
 Output of variable z:
-| Probability of the disitrbution happen | Distribution | Value | 
+| Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
