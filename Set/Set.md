@@ -22,6 +22,60 @@ And its output of the variable "x" is given below:
 
 #
 
+## Getting Support from a Distribution
+
+The way to create a set from a distribution follows.
+```python
+x = (3 [1/3] (4 [1/5] 5));
+supX = set x;
+```
+The output of the program is showed below.
+
+Variable x:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 0.33 | 3.0 |
+| | 0.13 | 4.0 |
+| | 0.53 | 5.0 |
+
+Variable supX:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | S [ R 3.0, R 4.0, R 5.0 ] |
+
+#
+
+## Getting Support from a leaked Distribution
+
+The way to create a set from a leaked distribution follows.
+```python
+x = (3 [1/3] (4 [1/5] 5));
+leak(x);
+supX = set x;
+supSupx = set supX;
+```
+
+Its output is given below.
+
+Variable x:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 0.33 | 1.00 | 3.0 |
+| 0.13 | 1.00 | 4.0 |
+| 0.53 | 1.00 | 5.0 |
+
+Variable supX:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 0.33 | S [ R 3.0 ] |
+| | 0.13 | S [ R 4.0 ] |
+| | 0.53 | S [ R 5.0 ] |
+
+Variable supSupX:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | S [ S [ R 3.0 ], S [ R 4.0 ], S [ R 5.0 ] ] |
+
 ## A whole program constructed by using sets
 A set is itself a value, and can be assigned probabilities.
 
