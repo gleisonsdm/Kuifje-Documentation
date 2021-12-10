@@ -25,24 +25,24 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 ---
 
 ### Assigning probabilities
-- [Attribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Attribution.md)
-- [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Sampling.md)
-- [Geometric](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Geometric.md)
-- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Uniform%20Assingment.md)
-- [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Direct%20Assignment.md)
+- [Attribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Attribution/Attribution.md)
+- [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Sampling/Sampling.md)
+- [Geometric](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Geometric/Geometric.md)
+- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Uniform_Assingment/Uniform%20Assingment.md)
+- [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Direct_Assingment/Direct%20Assignment.md)
 - [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
 
 ---
 
 ### Operations
-- [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2002/Set.md)
-- [Aritimetic Operations](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2003/Aritimetic.md)
-- [Comparing Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Comparison.md)
+- [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Set/Set.md)
+- [Aritimetic Operations](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Arithimetic_Operations/Aritimetic.md)
+- [Comparing Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Comparing_Operators/Comparison.md)
 - [Boolean Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Boolean.md)
-- [Conditionals](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2006/Conditionals.md)
-- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2007/While.md) 
-- [Functions](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2008/Function.md)
-- [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2009/Leak.md) 
+- [Conditionals](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Conditionals/Conditionals.md)
+- [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/While/While.md) 
+- [Functions](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Functions/Function.md)
+- [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Leak/Leak.md) 
 
 ---
 
