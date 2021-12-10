@@ -29,7 +29,7 @@ The way to create a set from a distribution follows.
 x = (3 [1/3] (4 [1/5] 5));
 supX = set x;
 ```
-The output of the program is showed below.
+The output of the program is shown below.
 
 Variable x:
 | Probability of the distribution happen | Distribution | Value | 
