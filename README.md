@@ -28,7 +28,7 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 - [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Direct_Assingment/Direct%20Assignment.md)
 - [Uniform Distribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Uniform_Assingment/Uniform%20Assingment.md)
 - [Truncated Geometric Distribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Geometric/Geometric.md)
-- [Assigning via Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
+- [Assigning via Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Internal_Choice/Internal%20Choice.md)
 - [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Sampling/Sampling.md)
 
 ---
