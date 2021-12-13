@@ -25,7 +25,7 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 ---
 
 ### Probabilities
-- [The @ operator for assignment and sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Direct_Assingment/Direct%20Assignment.md)
+- [The @ operator for assignment and sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Sampling_Assignment/Sampling_Assignment.md)
 - [Uniform Distribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Uniform_Assingment/Uniform%20Assingment.md)
 - [Truncated Geometric Distribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Geometric/Geometric.md)
 - [Assigning via Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Internal_Choice/Internal%20Choice.md)
