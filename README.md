@@ -25,24 +25,36 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 ---
 
 ### Probabilities
-- [Attribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Attribution/Attribution.md)
-- [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Sampling/Sampling.md)
-- [Geometric](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Geometric/Geometric.md)
-- [Uniform Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Uniform_Assingment/Uniform%20Assingment.md)
 - [Direct Assignment](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Direct_Assingment/Direct%20Assignment.md)
-- [Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
+- [Uniform Distribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Uniform_Assingment/Uniform%20Assingment.md)
+- [Truncated Geometric Distribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Geometric/Geometric.md)
+- [Assigning via Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2001/Internal%20Choice.md)
+- [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Sampling/Sampling.md)
 
 ---
 
-### Operations
-- [Set](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Set/Set.md)
-- [Aritimetic Operations](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Arithimetic_Operations/Aritimetic.md)
-- [Comparing Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Comparing_Operators/Comparison.md)
+### Basic operators
+- [Arithimetic Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Arithimetic_Operations/Aritimetic.md)
 - [Boolean Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Chapter%2005/Boolean.md)
+- [Comparison Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Comparing_Operators/Comparison.md)
+
+---
+
+### Basic Commands
+- [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Leak/Leak.md) 
 - [Conditionals](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Conditionals/Conditionals.md)
 - [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/While/While.md) 
-- [Functions](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Functions/Function.md)
-- [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Leak/Leak.md) 
 
 ---
 
+### Sets
+
+- [Sets and its operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Set/Set.md)
+
+---
+
+### Declaring and calling functions
+
+- [Functions](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Functions/Function.md)
+
+---
