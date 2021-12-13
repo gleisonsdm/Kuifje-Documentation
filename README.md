@@ -33,7 +33,7 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 ---
 
 ### Basic operators
-- [Arithimetic Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Arithimetic_Operations/Aritimetic.md)
+- [Arithimetic Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Arithimetic_Operations/Arithimetic.md)
 - [Boolean Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Boolean_Operators/Boolean.md)
 - [Comparison Operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Comparing_Operators/Comparison.md)
 
