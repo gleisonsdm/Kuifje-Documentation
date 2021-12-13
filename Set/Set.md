@@ -67,14 +67,14 @@ Variable x:
 Variable supX:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 0.33 | S [ R 3.0 ] |
-| | 0.13 | S [ R 4.0 ] |
-| | 0.53 | S [ R 5.0 ] |
+| 1.00 | 0.33 | 3.0 |
+| | 0.13 | 4.0 |
+| | 0.53 | 5.0 |
 
 Variable supSupX:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | S [ S [ R 3.0 ], S [ R 4.0 ], S [ R 5.0 ] ] |
+| 1.00 | 1.00 | S [ R 3.0, R 4.0, R 5.0 ] |
 
 ## A whole program constructed by using sets
 A set is itself a value, and can be assigned probabilities.
