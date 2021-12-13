@@ -45,6 +45,29 @@ Variable supX:
 
 #
 
+## Getting Support from a Distribution (multiple occurrences of the same value)
+
+The way to create a set from a distribution follows.
+```python
+x = uniform [3, 4, 4, 5];
+supX = set x;
+```
+The output of the program is shown below.
+
+Variable x:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 0.25 | 3.0 |
+| | 0.50 | 4.0 |
+| | 0.25 | 5.0 |
+
+Variable supX:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | S [ R 3.0, R 4.0, R 5.0 ] |
+
+#
+
 ## Getting Support from a leaked Distribution
 
 The way to create a set from a leaked distribution follows.
