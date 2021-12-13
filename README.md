@@ -30,6 +30,7 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 - [Truncated Geometric Distribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Geometric/Geometric.md)
 - [Assigning via Internal Choice](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Internal_Choice/Internal%20Choice.md)
 - [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Sampling/Sampling.md)
+- [Assigning vs. Sampling]()
 
 ---
 
