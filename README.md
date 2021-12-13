@@ -24,7 +24,7 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 
 ---
 
-### Assigning probabilities
+### Probabilities
 - [Attribution](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Attribution/Attribution.md)
 - [Sampling](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Sampling/Sampling.md)
 - [Geometric](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Geometric/Geometric.md)
