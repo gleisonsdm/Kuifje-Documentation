@@ -13,7 +13,7 @@ Example:
 
 It is equivalent to:
 ```sh
-  x <- uniform [1, 2, 2, 3];
+  x <- [1@(1/4), 2@(1/4), 2@(1/4), 3@(1/4)];
 ```
 
 And the distribution of variable x is:
@@ -30,7 +30,7 @@ And the distribution of variable x is:
 To assign a value in Kuifje, the symbol "=" is used.
 
 ```python
-  x = uniform [1,2,3];
+  x = [1@(1/3), 2@(1/3), 3@(1/3)];
 ```
 
 The output of this command for variable "x" is:
@@ -47,7 +47,7 @@ The output of this command for variable "x" is:
 Kuifje allows sampling from a probability distribution. The symbol used is "<-"
 
 ```python
-  x <- uniform [1,2,3];
+  x <- [1@(1/3), 2@(1/3), 3@(1/3)];
 ```
 
 The output of this command for variable "x" is:
@@ -68,7 +68,7 @@ The difference is illustrated in the following example.
 First, in the following program p is sampled from a uniform distribution, and from that point on the variable has a fixed value (be it 0 or 1). When x and y are assigned the value of p, they both end up with the same value (again, be it 0 or 1). Because of that, the variable z will always be assigned value 1, indicating x and y are necessarily equal.
 
 ```python
-p <- uniform[0,1];
+p <- [0@(1/2), 1@(1/2)];
 x = p;
 y = p;
 z = if x == y: 1 else: 0;
@@ -83,7 +83,7 @@ The output for variable z in the program above is:
 Now, in the following program, p is attributed the uniform distribution on 0 and 1, and then x and y are sampled from x. This has the effect of x and y independently getting a value between 0 and 1.  Because of that, the variable z may have value 0 or 1 with equal probability, reflecting the fact that x and y may or may not have equal values.
 
 ```python
-p = uniform[0,1];
+p = [0@(1/2), 1@(1/2)];
 x <- p;
 y <- p;
 z = if x == y: 1 else: 0;
