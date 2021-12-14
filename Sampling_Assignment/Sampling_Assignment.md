@@ -8,15 +8,10 @@ this operation is the "@".
 
 Example:
 ```sh
-  x <- [1@(1/4), 2@(1/2), 3@(1/4)];
-```
-
-It is equivalent to:
-```sh
   x <- [1@(1/4), 2@(1/4), 2@(1/4), 3@(1/4)];
 ```
 
-And the distribution of variable x is:
+The distribution of the variable x is:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 0.25 | 1.0 |
