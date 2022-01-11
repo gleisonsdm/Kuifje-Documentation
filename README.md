@@ -52,6 +52,13 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 
 ---
 
+### String
+
+- [String and its operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/String/String.md)
+
+---
+
+
 ### Declaring and calling functions
 
 - [Functions](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Functions/Function.md)
