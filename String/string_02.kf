@@ -1,0 +1,3 @@
+x = "right";
+y = "wrong";
+z = x == y;

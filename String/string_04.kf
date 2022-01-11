@@ -1,0 +1,3 @@
+x = "ali";
+y = "valid";
+z = x strIsSub y;

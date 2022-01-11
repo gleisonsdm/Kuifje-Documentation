@@ -1,0 +1,3 @@
+x = "ai";
+y = "valid";
+z = x strIsSub y;

@@ -1,0 +1,3 @@
+x = "ia";
+y = "valid";
+z = x strIsSub y;
