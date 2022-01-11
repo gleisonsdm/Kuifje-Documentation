@@ -212,6 +212,25 @@ Output or variable z:
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 2.0 ] |
 
+#
+
+### Power Set
+
+Creates the set of all its subsets.
+
+#### Example
+
+Program:
+```python
+x = set {1, 2, 3};
+z = powerSet x;
+```
+
+Output of variable z:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | S [ S [  ], S [ R 1.0 ], S [ R 1.0, R 2.0 ], S [ R 1.0, R 2.0, R 3.0 ], S [ R 1.0, R 3.0 ], S [ R 2.0 ], S [ R 2.0, R 3.0 ], S [ R 3.0 ] ] |
+
 ---
 
 ## Set Comparison
@@ -296,24 +315,5 @@ Output of variable z:
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
-
-#
-
-### Power Set
-
-Creates the set of all its subsets.
-
-#### Example
-
-Program:
-```python
-x = set {1, 2, 3};
-z = powerSet x;
-```
-
-Output of variable z:
-| Probability of the distribution happen | Distribution | Value | 
-| --- | --- | --- |
-| 1.00 | 1.00 | S [ S [  ], S [ R 1.0 ], S [ R 1.0, R 2.0 ], S [ R 1.0, R 2.0, R 3.0 ], S [ R 1.0, R 3.0 ], S [ R 2.0 ], S [ R 2.0, R 3.0 ], S [ R 3.0 ] ] |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
