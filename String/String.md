@@ -63,7 +63,8 @@ Output of variable z:
 
 ### Is Sub String Of
 
-Check if a string is a sub string of other.
+This function takes two strings, returnings True if the characters of the first string occurs, in order, in the second.
+The characters do not have to be consecutively placed.
 
 #### Example
 
