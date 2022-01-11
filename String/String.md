@@ -89,7 +89,18 @@ z = x strIsSub y;
 Output of variable z:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | False |
+| 1.00 | 1.00 | True |
 
+Program:
+```python
+x = "ia";
+y = "valid";
+z = x strIsSub y;
+```
+
+Output of variable z:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | False |
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
