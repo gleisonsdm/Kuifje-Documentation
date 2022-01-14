@@ -1,0 +1,49 @@
+{
+    "filename":"../Kuifje-Documentation/JSON/json_01.kf",
+    "variables":{
+        "v1" : {
+            "type":"Outer",
+            "probabilities":{
+                "world 1":"1.0"
+            },
+            "world 1":{
+                "type":"Inner",
+                "T A":"0.5",
+                "T B":"0.1",
+                "T C":"0.4"
+            }
+        },
+        "v2" : {
+            "type":"Outer",
+            "probabilities":{
+                "world 1":"0.5",
+                "world 2":"0.1",
+                "world 3":"0.4"
+            },
+            "world 1":{
+                "type":"Inner",
+                "T A":"1.0"
+            },
+            "world 2":{
+                "type":"Inner",
+                "T B":"1.0"
+            },
+            "world 3":{
+                "type":"Inner",
+                "T C":"1.0"
+            }
+        },
+        "x" : {
+            "type":"Outer",
+            "probabilities":{
+                "world 1":"1.0"
+            },
+            "world 1":{
+                "type":"Inner",
+                "T A":"0.5",
+                "T B":"0.1",
+                "T C":"0.4"
+            }
+        }
+    }
+}
