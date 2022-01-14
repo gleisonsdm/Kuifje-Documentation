@@ -13,7 +13,7 @@ Kuifje allows users to save the generated distribution into JSON format.
 The flag "json1" dumps the output in the Kuifje readable JSON standard ("_read.json" extension).
 
 This JSON format is readable by humans.
-It can also be readable for machines.
+It also may be readable for machines.
 
 Command Line Example:
 ```sh
