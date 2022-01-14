@@ -1,6 +1,7 @@
 # JSON output
 
 Kuifje allows users to save the generated distribution into JSON format.
+
 The JSON is generated at the same directory as the program is stored, with a different extension.
 
 - [Readable Format](#readable-format)
@@ -11,6 +12,7 @@ The JSON is generated at the same directory as the program is stored, with a dif
 ## Readable Format
 
 The flag "json1" dumps the output in the Kuifje readable JSON standard ("_read.json" extension).
+
 This JSON format is readable by humans.
 It can also be readable for machines.
 
@@ -110,6 +112,7 @@ JSON Output:
 ## Machine Format
 
 The flag "json2" dumps the output in the Kuifje machine JSON standard ("_mach.json" extension).
+
 The machine JSON format stores information compactly.
 However, it is difficult for humans to understand without additional tools to facilitate the information display.
 
