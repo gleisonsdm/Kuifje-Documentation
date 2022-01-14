@@ -1,6 +1,7 @@
 # JSON output
 
-Kuifje allow users to save the generated distribution into JSON format.
+Kuifje allows users to save the generated distribution into JSON format.
+The JSON is generated at the same directory as the program is stored, with a different extension.
 
 - [Readable Format](#readable-format)
 - [Machine Format](#machine-format)
@@ -9,8 +10,9 @@ Kuifje allow users to save the generated distribution into JSON format.
 
 ## Readable Format
 
-To dump the output in the Kuifje readable JSON standard, it is necessary to add the flag "json1".
-These JSON files can also be read for machines.
+The flag "json1" dumps the output in the Kuifje readable JSON standard ("_read.json" extension).
+This JSON format is readable by humans.
+It can also be readable for machines.
 
 Command Line Example:
 ```sh
@@ -107,7 +109,9 @@ JSON Output:
 
 ## Machine Format
 
-To dump the output in the Kuifje machine JSON standard, it is necessary to add the flag "json2".
+The flag "json2" dumps the output in the Kuifje machine JSON standard ("_mach.json" extension).
+The machine JSON format stores information compactly.
+However, it is difficult for humans to understand without additional tools to facilitate the information display.
 
 Command Line Example:
 ```sh
