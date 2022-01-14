@@ -1,8 +1,7 @@
 # JSON output
 
 Kuifje allows users to save the generated distribution into JSON format.
-
-The JSON is generated at the same directory as the program is stored, with a different extension.
+ The JSON is generated at the same directory as the program is stored, with a different extension.
 
 - [Readable Format](#readable-format)
 - [Machine Format](#machine-format)
