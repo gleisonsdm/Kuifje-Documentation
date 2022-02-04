@@ -1,4 +1,4 @@
-# Python-Kuifje Documentation
+# Python-Kuifje Documentation 
 
 This book contains the references of the subset Kuifje compatible with Python.
 Kuifje is currently not fully supported, due to its specificities.
