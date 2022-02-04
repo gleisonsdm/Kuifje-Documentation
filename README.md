@@ -67,3 +67,4 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 
 ### Saving hypers in JSON format
 - [JSON](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/JSON/JSON.md)
+
