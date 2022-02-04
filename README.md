@@ -1,4 +1,4 @@
-# Python-Kuifje Documentation 
+# Python-Kuifje Documentation
 
 This book contains the references of the subset Kuifje compatible with Python.
 Kuifje is currently not fully supported, due to its specificities.
@@ -13,9 +13,9 @@ The compiler that implements a prototype of this project is available at:
 
 ## About
 
-- [Kuifje Haskell Page](https://hackage.haskell.org/package/kuifje)
-- [Kuifje Papaer](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/kuifje.pdf)
-- [Slides](https://meloen.cs.kuleuven.be/pub/IFIP21/Brandenburg/ifip_kuifje.pdf)
+- [Kuifje Haskell Page (Hackage)](https://hackage.haskell.org/package/kuifje)
+- [Kuifje Paper (somewhat involved...)](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/kuifje.pdf)
+- [Slides from WG2.1 (Schrijvers)](https://meloen.cs.kuleuven.be/pub/IFIP21/Brandenburg/ifip_kuifje.pdf)
 
 ## Summary
 
