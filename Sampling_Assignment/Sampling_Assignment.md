@@ -66,7 +66,7 @@ First, in the following program p is sampled from a uniform distribution, and fr
 p <- [0@(1/2), 1@(1/2)];
 x = p;
 y = p;
-z = if x == y: 1 else: 0;
+z = 1 if x == y else 0;
 leak(z);
 ```
 
@@ -81,7 +81,7 @@ Now, in the following program, p is attributed the uniform distribution on 0 and
 p = [0@(1/2), 1@(1/2)];
 x <- p;
 y <- p;
-z = if x == y: 1 else: 0;
+z = 1 if x == y else 0;
 leak(z);
 ```
 
