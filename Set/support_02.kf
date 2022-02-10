@@ -1,2 +1,2 @@
-x = uniform [3, 4, 4, 5];
+x <- uniform [3, 4, 4, 5];
 supX = set x;

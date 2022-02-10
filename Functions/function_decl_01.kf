@@ -1,6 +1,0 @@
-function f1 a returns b fun
-  b := a;
-nuf;
-
-x := 0;
-leak 0;

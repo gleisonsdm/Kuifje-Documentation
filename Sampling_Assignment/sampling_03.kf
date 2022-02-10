@@ -1,6 +1,6 @@
 p = [0@(1/2), 1@(1/2)];
 x <- p;
 y <- p;
-z = if x == y: 1 else: 0;
+z = 1 if x == y else 0;
 leak(z);
 
