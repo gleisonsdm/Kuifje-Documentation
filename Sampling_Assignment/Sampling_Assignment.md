@@ -31,9 +31,7 @@ To assign a value in Kuifje, the symbol "=" is used.
 The output of this command for variable "x" is:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 0.33 | 1 |
-| | 0.33 | 2 |
-| | 0.33 | 3 |
+| 1.00 | 1.00 | PD [ (1 % 3,R (1 % 1)), (1 % 3,R (2 % 1)), (1 % 3,R (3 % 1)) ] |
 
 #
 
