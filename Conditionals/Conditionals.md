@@ -18,12 +18,7 @@ The syntax is similar to Python, except that it returns a value, and is an uniqu
 
 ```python
 x <- (0 [1/2] (1 [1/2] 2));
-y = if x > 1: 
-    4
-  elif x > 0:
-    5
-  else:
-    6;
+y = 4 if x > 1 else (5 if x > 0 else 6);
 ```
 
 Output of variable x:
