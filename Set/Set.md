@@ -26,7 +26,8 @@ And its output of the variable "x" is given below:
 
 The way to create a set from a distribution follows.
 ```python
-x = (3 [1/3] (4 [1/5] 5));
+xD = (3 [1/3] (4 [1/5] 5));
+x <- xD;
 supX = set x;
 ```
 The output of the program is shown below.
@@ -49,7 +50,7 @@ Variable supX:
 
 The way to create a set from a distribution follows.
 ```python
-x = uniform [3, 4, 4, 5];
+x <- uniform [3, 4, 4, 5];
 supX = set x;
 ```
 The output of the program is shown below.
@@ -72,7 +73,7 @@ Variable supX:
 
 The way to create a set from a leaked distribution follows.
 ```python
-x = (3 [1/3] (4 [1/5] 5));
+x <- (3 [1/3] (4 [1/5] 5));
 leak(x);
 supX = set x;
 supSupx = set supX;
