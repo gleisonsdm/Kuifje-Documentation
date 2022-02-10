@@ -44,6 +44,11 @@ Variable supX:
 | --- | --- | --- |
 | 1.00 | 1.00 | S [ R 3.0, R 4.0, R 5.0 ] |
 
+Variable xD:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | PD [ (1 % 3,R (3 % 1)), (2 % 15,R (4 % 1)), (8 % 15,R (5 % 1)) ] |
+
 #
 
 ## Getting Support from a Distribution (multiple occurrences of the same value)
