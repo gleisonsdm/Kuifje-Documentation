@@ -1,0 +1,10 @@
+list = set {0, 5, 10, 15, 20};
+index = 0;
+dist = set {};
+for el in list:
+  index = index + 1;
+  if (el < 10):
+    newEl = el + 100;
+    dist = dist + set {newEl};
+  else:
+    dist = dist + set {el};
