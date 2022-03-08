@@ -1,33 +1,45 @@
-# While
+# For
 
-While is a structure to iterate from one value to other, it is used to repeat a code for
-a given number of times.
+For is a structure to iterate over the elements of a given set.
 
 Example:
 ```sh
-p <- [0.3, 0.7];
-i = 0;
-while i < 2: 
-  result <- 0 [p] 1;
-  leak(result);
-  i = i + 1;
+list = set {0, 5, 10, 15, 20};
+index = 0;
+dist = set {};
+for el in list:
+  index = index + 1;
+  if (el < 10):
+    newEl = el + 100;
+    dist = dist + set {newEl};
+  else:
+    dist = dist + set {el};
 ```
 
-Output of variable p:
+Output of dist list:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 0.29 | 0.16 | 0.3 |
-| | 0.84 | 0.7 |
-| 0.42 | 0.50 | 0.3 |
-| | 0.50 | 0.7 |
-| 0.29 | 0.84 | 0.3 |
-| | 0.16 | 0.7 |
+| 1.00 | 1.00 | S [ R 0.0, R 5.0, R 10.0, R 15.0, R 20.0 ] |
 
-Output of variable result:
+Output of variable index:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 0.50 | 1.00 | 0.00 |
-| 0.50 | 1.00 | 1.00 |
+| 1.00 | 1.00 | R 5.00 |
+
+Output of variable el:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | R 20.00 |
+
+Output of variable newEl:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | R 105.0 |
+
+Output of variable dist:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | S [ R 10.0, R 15.0, R 20.0, R 100.0, R 105.0 ] |
 
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
