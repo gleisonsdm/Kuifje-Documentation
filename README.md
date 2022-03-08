@@ -43,6 +43,7 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 - [Leak](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Leak/Leak.md) 
 - [Conditionals](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Conditionals/Conditionals.md)
 - [While](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/While/While.md) 
+- [For](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/For/For.md) 
 
 ---
 
