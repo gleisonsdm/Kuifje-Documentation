@@ -36,7 +36,10 @@ data <- dataD;
 Output of variable data:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 0.20 | T "a,1" |
+| | 0.20 | T "b,2" |
+| | 0.40 | T "c,d" |
+| | 0.20 | T "e,f" |
 
 #
 
@@ -49,7 +52,11 @@ data <- dataD;
 Output of variable data:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 0.20 | T "1,a,1" |
+| | 0.20 | T "2,b,2" |
+| | 0.20 | T "3,c,d" |
+| | 0.20 | T "4,c,d" |
+| | 0.20 | T "5,e,f" |
 
 #
 
@@ -62,7 +69,10 @@ data <- dataD;
 Output of variable data:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 0.20 |S [ T "1", T "a" ] |
+| | 0.20 | S [ T "2", T "b" ] |
+| | 0.40 | S [ T "c", T "d" ] |
+| | 0.20 | S [ T "e", T "f" ] |
 
 #
 
@@ -75,7 +85,10 @@ data <- dataD;
 Output of variable data:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 0.20 | S [ R 1.0, T "a" ] |
+| | 0.20 | S [ R 2.0, T "b" ] |
+| | 0.40 | S [ T "c", T "d" ] |
+| | 0.20 | S [ T "e", T "f" ] |
 
 #
 
@@ -88,7 +101,9 @@ data <- dataD;
 Output of variable data:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 0.25 | T "a,1" |
+| | 0.25 | T "b,2" |
+| | 0.50 | T "c,d" |
 
 #
 
