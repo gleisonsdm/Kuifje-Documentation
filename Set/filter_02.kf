@@ -1,0 +1,2 @@
+x = set {1, 2, 1};
+f = 1 filterSet x;
