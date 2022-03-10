@@ -29,7 +29,7 @@ The uniform distribution is assumed to the loaded rows, meaning that, for this f
 ### Examples
 ```python
 cols = set {0, 1};
-dataD = csv("data.csv", cols, 10, "Text");
+dataD = csv("data.csv", cols, 0, "Text");
 data <- dataD;
 ```
 
@@ -42,7 +42,7 @@ Output of variable data:
 
 ```python
 cols = set {0, 1};
-dataD = csv("data.csv", cols, 10, "Unique Text");
+dataD = csv("data.csv", cols, 0, "Unique Text");
 data <- dataD;
 ```
 
@@ -55,7 +55,7 @@ Output of variable data:
 
 ```python
 cols = set {0, 1};
-dataD = csv("data.csv", cols, 10, "Set");
+dataD = csv("data.csv", cols, 0, "Set");
 data <- dataD;
 ```
 
@@ -68,7 +68,20 @@ Output of variable data:
 
 ```python
 cols = set {0, 1};
-dataD = csv("data.csv", cols, 10, "Yype");
+dataD = csv("data.csv", cols, 0, "Type");
+data <- dataD;
+```
+
+Output of variable data:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+#
+
+```python
+cols = set {0, 1};
+dataD = csv("data.csv", cols, 4, "Text");
 data <- dataD;
 ```
 
