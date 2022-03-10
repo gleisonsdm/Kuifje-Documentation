@@ -1,0 +1,3 @@
+cols = set {0, 1};
+dataD = csv("data.csv", cols, 0, "Type");
+data <- dataD;
