@@ -5,6 +5,7 @@ Kuifje supports sets of values.
 - [Constructor](#set-constructor)
 - [Operators](#set-operators)
 - [Comparison](#set-comparison)
+- [Filter](#filter)
 
 ---
 
@@ -321,5 +322,69 @@ Output of variable z:
 | --- | --- | --- |
 | 1.00 | 1.00 | False |
 
+## Set Comparison
+
+### Filter
+
+Select the values of a given set based in its parameters.
+- Text: Check if the element contains the substring, and the select the values where it happens.
+- Rational: Check if the element is the number, selecting these elements.
+- Boolean: Check if the element is the row, selecting these elements.
+- Set: Check if the element (which is a set) contains the set we are looking for, and filter these elements.
+
+
+#### Example
+
+Program:
+```python
+x = set {"to find", "to", "find"};
+f = "to" filterSet x;
+```
+
+Output or variable f:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+#
+
+Program:
+```python
+x = set {1, 2, 1};
+f = 1 filterSet x;
+```
+
+Output or variable f:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+#
+
+Program:
+```python
+x = set {True, False};
+f = True filterSet x;
+```
+
+Output or variable f:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+#
+
+Program:
+```python
+x = set { set {1, "Valid"} , set {2, "Not valid"} };
+f = 1 filterSet x;
+```
+
+Output or variable f:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | True |
+
+#
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
