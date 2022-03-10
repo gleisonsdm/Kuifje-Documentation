@@ -344,7 +344,7 @@ f = "to" filterSet x;
 Output or variable f:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 1.00 | S [ T "to", T "to find" ] |
 
 #
 
@@ -357,7 +357,7 @@ f = 1 filterSet x;
 Output or variable f:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 1.00 | S [ R 1.0 ] |
 
 #
 
@@ -370,20 +370,20 @@ f = True filterSet x;
 Output or variable f:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 1.00 | S [ B True ] |
 
 #
 
 Program:
 ```python
 x = set { set {1, "Valid"} , set {2, "Not valid"} };
-f = 1 filterSet x;
+f = set { 1 } filterSet x;
 ```
 
 Output or variable f:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | True |
+| 1.00 | 1.00 | S [ S [ R 1.0, T "Valid" ] ] |
 
 #
 
