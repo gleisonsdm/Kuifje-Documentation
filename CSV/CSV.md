@@ -36,6 +36,8 @@ The dataset used in the following examples is:
 | c | d |
 | e | f |
 
+#
+
 ```python
 cols = set {0, 1};
 dataD = csv("data.csv", cols, 0, "Text");
