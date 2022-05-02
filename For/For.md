@@ -4,42 +4,39 @@ For is a structure to iterate over the elements of a given set.
 
 Example:
 ```sh
-list = set {0, 5, 10, 15, 20};
-index = 0;
-dist = set {};
+list = [0, 10, 20];
+nList = list;
+
 for el in list:
-  index = index + 1;
-  if (el < 10):
-    newEl = el + 100;
-    dist = dist + set {newEl};
-  else:
-    dist = dist + set {el};
+  nList.insert(2, el);
+
+numElements = len(nList);
 ```
 
-Output of dist list:
+Output of list:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | S [ R 0.0, R 5.0, R 10.0, R 15.0, R 20.0 ] |
+| 1.00 | 1.00 | S [ R 0.0, R 5.0, R 10.0 ] |
 
-Output of variable index:
+Output of variable iterator.el:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | R 5.00 |
+| 1.00 | 1.00 | R 3.0 |
 
 Output of variable el:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | R 20.00 |
+| 1.00 | 1.00 | R 20.0 |
 
-Output of variable newEl:
+Output of variable numElements:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | R 105.0 |
+| 1.00 | 1.00 | R 6.0 |
 
-Output of variable dist:
+Output of variable nList:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | S [ R 10.0, R 15.0, R 20.0, R 100.0, R 105.0 ] |
+| 1.00 | 1.00 | S [ R 0.0, R 10.0, R 20.0, R 10.0, R 0.0, R 20.0 ] |
 
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
