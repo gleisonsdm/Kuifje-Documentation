@@ -27,6 +27,17 @@ The uniform distribution is assumed to the loaded rows, meaning that, for this f
   The compiler tries to inffer the type of the row, and creates a set with these elements.
   
 ### Examples
+The dataset used in the following examples is:
+| User | Password |
+| --- | --- |
+| a | 1 |
+| b | 2 |
+| c | d |
+| c | d |
+| e | f |
+
+#
+
 ```python
 cols = set {0, 1};
 dataD = csv("data.csv", cols, 0, "Text");
