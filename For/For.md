@@ -1,6 +1,6 @@
 # For
 
-For is a structure to iterate over the elements of a given set.
+For is a structure to iterate ovr elements of a list.
 
 Example:
 ```sh
