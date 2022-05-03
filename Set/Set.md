@@ -13,7 +13,7 @@ Kuifje supports sets of values.
 
 The way to create a set of values in kuifje follows.
 ```python
-x = set {1, 2, 3};
+x = {1, 2, 3};
 ```
 
 And its output of the variable "x" is given below:
@@ -112,8 +112,8 @@ A set is itself a value, and can be assigned probabilities.
 For instance, the following program assigns uniform probability over sets v1, v2.
 
 ```python
-v1 = set {1, 1};
-v2 = set {0, 0};
+v1 = {1, 1};
+v2 = {0, 0};
 y <- uniform [v1, v2];
 x <- uniform y;
 leak(x);
@@ -157,8 +157,8 @@ If a value is duplicated,
 In the following scenario, the operator performs a union of the elements in both sets.
 The program:
 ```python
-x = set {1, 2};
-y = set {2, 3};
+x = {1, 2};
+y = {2, 3};
 z = x + y;
 ```
 
@@ -179,8 +179,8 @@ Kuifje will identify the variable types, and it creates a new set with the value
 In the following scenario, the operator remove the elements of set A that are present in set B.
 The program:
 ```python
-x = set {1, 2, 3};
-y = set {3, 4};
+x = {1, 2, 3};
+y = {3, 4};
 z = x - y;
 ```
 
@@ -199,8 +199,8 @@ The intersection between two sets of values can be calculated as the example bel
 
 Program:
 ```python
-x = set {1, 2};
-y = set {2, 3};
+x = {1, 2};
+y = {2, 3};
 z = x & y;
 ```
 
@@ -229,7 +229,7 @@ Creates the set of all its subsets.
 
 Program:
 ```python
-x = set {1, 2, 3};
+x = {1, 2, 3};
 z = powerSet x;
 ```
 
@@ -250,7 +250,7 @@ Verifies if a value is in a given subset.
 
 Program:
 ```python
-x = set {1, 2, 3};
+x = {1, 2, 3};
 y = 2 in x;
 z = 4 in x;
 ```
@@ -275,7 +275,7 @@ Verifies if a value is not in a given subset.
 
 Program:
 ```python
-x = set {1, 2, 3};
+x = {1, 2, 3};
 y = 2 nin x;
 z = 4 nin x;
 ```
@@ -300,8 +300,8 @@ Check if a set is a strictly subset of a given set.
 
 Program:
 ```python
-x = set {1, 2, 3};
-y = set {1, 2};
+x = {1, 2, 3};
+y = {1, 2};
 z = y isSubOf x;
 ```
 
@@ -312,8 +312,8 @@ Output of variable z:
 
 Program:
 ```python
-x = set {1, 2, 3};
-y = set {1, 2, 3, 4};
+x = {1, 2, 3};
+y = {1, 2, 3, 4};
 z = y isSubOf x;
 ```
 
@@ -337,7 +337,7 @@ Select the values of a given set based in its parameters.
 
 Program:
 ```python
-x = set {"to find", "to", "find"};
+x = {"to find", "to", "find"};
 f = "to" filterSet x;
 ```
 
@@ -350,7 +350,7 @@ Output or variable f:
 
 Program:
 ```python
-x = set {1, 2, 1};
+x = {1, 2, 1};
 f = 1 filterSet x;
 ```
 
@@ -363,7 +363,7 @@ Output or variable f:
 
 Program:
 ```python
-x = set {True, False};
+x = {True, False};
 f = True filterSet x;
 ```
 
@@ -376,8 +376,8 @@ Output or variable f:
 
 Program:
 ```python
-x = set { set {1, "Valid"} , set {2, "Not valid"} };
-f = set { 1 } filterSet x;
+x = { set {1, "Valid"} , set {2, "Not valid"} };
+f = { 1 } filterSet x;
 ```
 
 Output or variable f:
