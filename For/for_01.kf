@@ -4,4 +4,4 @@ nList = list;
 for el in list:
   nList.insert(2, el);
 
-numelements = len(nList);
+numElements = len(nList);

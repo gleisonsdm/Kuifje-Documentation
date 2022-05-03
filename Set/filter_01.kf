@@ -1,2 +1,2 @@
-x = set {"to find", "to", "find"};
+x = {"to find", "to", "find"};
 f = "to" filterSet x;

@@ -1,2 +1,2 @@
-x = set {True, False};
+x = {True, False};
 f = True filterSet x;

@@ -1,2 +1,2 @@
-x = set { set {1, "Valid"} , set {2, "Not valid"} };
-f = set { 1 } filterSet x;
+x = { {1, "Valid"} , {2, "Not valid"} };
+f = { 1 } filterSet x;
