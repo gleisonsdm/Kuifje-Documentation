@@ -46,7 +46,6 @@ Output of variable element:
 
 #
 
-
 ### Append
 
 The function appends an element in the end of the list.
@@ -63,5 +62,26 @@ Output of variable list:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
 | 1.00 | 1.00 | LS [ R 2.0, R 1.0, R 2.0, R 3.0 , R 4.0 ] |
+
+#
+
+### Insert
+
+The function inserts an element in a given position of the list.
+
+#### Example
+
+Program:
+```python
+list = [2, 1, 2, 3];
+list.insert(1, 0);
+```
+
+Output of variable list:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | LS [ R 2.0, R 0.0, R 1.0, R 2.0, R 3.0 ] |
+
+#
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
