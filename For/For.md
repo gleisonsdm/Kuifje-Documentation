@@ -16,7 +16,7 @@ numElements = len(nList);
 Output of list:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | S [ R 0.0, R 5.0, R 10.0 ] |
+| 1.00 | 1.00 | LS [ R 0.0, R 5.0, R 10.0 ] |
 
 Output of variable iterator.el:
 | Probability of the distribution happen | Distribution | Value | 
@@ -36,7 +36,7 @@ Output of variable numElements:
 Output of variable nList:
 | Probability of the distribution happen | Distribution | Value | 
 | --- | --- | --- |
-| 1.00 | 1.00 | S [ R 0.0, R 10.0, R 20.0, R 10.0, R 0.0, R 20.0 ] |
+| 1.00 | 1.00 | LS [ R 0.0, R 10.0, R 20.0, R 10.0, R 0.0, R 20.0 ] |
 
 
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
