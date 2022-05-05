@@ -46,6 +46,32 @@ Output of variable element:
 
 #
 
+#### Example
+
+Program:
+```python
+list = [2, 1, 2, 3];
+index = 1;
+element = list[index];
+```
+
+Output of variable list:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | LS [ R 2.0, R 1.0, R 2.0, R 3.0 ] |
+
+Output of variable index:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | R 1.0 |
+
+Output of variable element:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | R 1.0 |
+
+#
+
 ### Append
 
 The function appends an element in the end of the list.
