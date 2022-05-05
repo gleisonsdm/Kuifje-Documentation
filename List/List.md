@@ -2,8 +2,8 @@
 
 Lists are partially supported by Kuifje. It is inspired on Python lists.
 
-- [Constructor](#list-constructor)
-- [Comparison](#list-functions)
+- [List Constructor](#list-constructor)
+- [List Functions](#list-functions)
 
 ---
 
