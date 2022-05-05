@@ -109,4 +109,23 @@ Output of variable listExt:
 
 #
 
+### Remove
+
+The function removes the first occurence of an element in a given list.
+
+#### Example
+
+Program:
+```python
+list = [2, 1, 2, 3];
+list.remove(2);
+```
+
+Output of variable list:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | LS [ R 1.0, R 2.0, R 3.0 ] |
+
+#
+
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
