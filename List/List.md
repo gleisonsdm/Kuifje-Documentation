@@ -84,4 +84,29 @@ Output of variable list:
 
 #
 
+### Extend
+
+The function concatenates a list in the end of a given list.
+
+#### Example
+
+Program:
+```python
+list = [2, 1, 2, 3];
+listExt = [4, 5, 6];
+list.extend(listExt);
+```
+
+Output of variable list:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | LS [ R 2.0, R 1.0, R 2.0, R 3.0, R 4.0, R 5.0, R 6.0 ] |
+
+Output of variable listExt:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | LS [ R 4.0, R 5.0, R 6.0 ] |
+
+#
+
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
