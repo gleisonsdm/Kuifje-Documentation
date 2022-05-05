@@ -128,4 +128,28 @@ Output of variable list:
 
 #
 
+### Len
+
+The function returns the number of elements (length) of a list.
+
+#### Example
+
+Program:
+```python
+list = [2, 1, 2, 3];
+size = len(list);
+```
+
+Output of variable list:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | LS [ R 2.0, R 1.0, R 2.0, R 3.0 ] |
+
+Output of variable size:
+| Probability of the distribution happen | Distribution | Value | 
+| --- | --- | --- |
+| 1.00 | 1.00 | R 4.0 |
+
+#
+
 [Summary](https://github.com/gleisonsdm/Kuifje-Documentation)
