@@ -22,9 +22,9 @@ Output of list:
 
 ## List Functions
 
-### Access 
+### Accessing an element of a list
 
-Verifies if a value is equal to other.
+Use an integer to identify an element in a list, then returns its value.
 
 #### Example
 
