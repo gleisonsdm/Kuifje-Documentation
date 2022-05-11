@@ -49,7 +49,13 @@ They can be used to manipulate Kuifje variables, providing facilities to model a
 
 ### Sets
 
-- [Sets and its operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Set/Set.md)
+- [Set and its operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/Set/Set.md)
+
+---
+
+### Lists
+
+- [List and its operators](https://github.com/gleisonsdm/Kuifje-Documentation/blob/main/List/List.md)
 
 ---
 
